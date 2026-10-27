@@ -1,0 +1,191 @@
+[
+  {
+    "id": 133,
+    "parent": 128,
+    "name": "Banken &amp; hoekbanken",
+    "slug": "banken-hoekbanken",
+    "count": 6
+  },
+  {
+    "id": 139,
+    "parent": 128,
+    "name": "Bedden &amp; hoofdborden",
+    "slug": "bedden-hoofdborden",
+    "count": 7
+  },
+  {
+    "id": 242,
+    "parent": 128,
+    "name": "Benches",
+    "slug": "benches",
+    "count": 2
+  },
+  {
+    "id": 163,
+    "parent": 128,
+    "name": "Bijzettafels",
+    "slug": "bijzettafels",
+    "count": 22
+  },
+  {
+    "id": 141,
+    "parent": 128,
+    "name": "Boekenkasten &amp; planken",
+    "slug": "boekenkasten-planken",
+    "count": 12
+  },
+  {
+    "id": 158,
+    "parent": 128,
+    "name": "Bureaus en schrijftafels",
+    "slug": "bureaus",
+    "count": 5
+  },
+  {
+    "id": 238,
+    "parent": 128,
+    "name": "Commodes &amp; nachtkastjes",
+    "slug": "commodes-nachtkastjes",
+    "count": 8
+  },
+  {
+    "id": 226,
+    "parent": 128,
+    "name": "Consoles",
+    "slug": "consoles",
+    "count": 2
+  },
+  {
+    "id": 138,
+    "parent": 128,
+    "name": "Consoletafels",
+    "slug": "consoletafels",
+    "count": 13
+  },
+  {
+    "id": 130,
+    "parent": 0,
+    "name": "Decoratie",
+    "slug": "decoratie",
+    "count": 33
+  },
+  {
+    "id": 237,
+    "parent": 128,
+    "name": "Dressoires",
+    "slug": "dressoires",
+    "count": 9
+  },
+  {
+    "id": 135,
+    "parent": 128,
+    "name": "Eetkamerstoelen &amp; barkrukken",
+    "slug": "eetkamerstoelen-barkrukken",
+    "count": 47
+  },
+  {
+    "id": 136,
+    "parent": 128,
+    "name": "Eetkamertafels",
+    "slug": "eetkamertafels",
+    "count": 16
+  },
+  {
+    "id": 134,
+    "parent": 128,
+    "name": "Fauteuils &amp; statement stoelen",
+    "slug": "fauteuils-statement-stoelen",
+    "count": 18
+  },
+  {
+    "id": 144,
+    "parent": 129,
+    "name": "Hanglampen &amp; kroonluchters",
+    "slug": "hanglampen-kroonluchters",
+    "count": 6
+  },
+  {
+    "id": 128,
+    "parent": 0,
+    "name": "Meubilair",
+    "slug": "meubilair",
+    "count": 220
+  },
+  {
+    "id": 241,
+    "parent": 129,
+    "name": "Pendant lamps",
+    "slug": "pendant-lamps",
+    "count": 6
+  },
+  {
+    "id": 243,
+    "parent": 128,
+    "name": "Pilaren",
+    "slug": "pilaren",
+    "count": 1
+  },
+  {
+    "id": 137,
+    "parent": 128,
+    "name": "Salontafels",
+    "slug": "salontafels",
+    "count": 48
+  },
+  {
+    "id": 239,
+    "parent": 130,
+    "name": "Spiegels",
+    "slug": "spiegels",
+    "count": 30
+  },
+  {
+    "id": 146,
+    "parent": 129,
+    "name": "Staande lampen",
+    "slug": "staande-lampen",
+    "count": 2
+  },
+  {
+    "id": 147,
+    "parent": 129,
+    "name": "Tafellampen",
+    "slug": "tafellampen",
+    "count": 2
+  },
+  {
+    "id": 224,
+    "parent": 128,
+    "name": "TV-meubels",
+    "slug": "tv-meubels",
+    "count": 4
+  },
+  {
+    "id": 15,
+    "parent": 0,
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "count": 1
+  },
+  {
+    "id": 225,
+    "parent": 130,
+    "name": "Vazen en plantenbakken",
+    "slug": "vazen-en-plantenbakken",
+    "count": 3
+  },
+  {
+    "id": 129,
+    "parent": 0,
+    "name": "Verlichting",
+    "slug": "verlichting",
+    "count": 14
+  },
+  {
+    "id": 145,
+    "parent": 129,
+    "name": "Wandlampen",
+    "slug": "wandlampen",
+    "count": 4
+  }
+]
