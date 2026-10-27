@@ -12,7 +12,7 @@ The earlier local `Maisondebrah website` and `Maisondebrah-et website` folders a
 
 ## 2. Target scope
 
-Build a separate, local-only English Ethiopia draft for review. Preserve the Maison Debrah visual direction: spacious image-led layouts, Playfair Display headings, Inter body text, dark green accents, simple navigation, and responsive product imagery. Keep product and collection names. Hide Dutch euro prices and showroom details because they are not verified for Ethiopia.
+Build a separate English Ethiopia draft for review and publish a clearly labelled GitHub Pages preview at the user-specified repository. Preserve the Maison Debrah visual direction: spacious image-led layouts, Playfair Display headings, Inter body text, dark green accents, simple navigation, and responsive product imagery. Keep product and collection names. Hide Dutch euro prices and showroom details because they are not verified for Ethiopia.
 
 The draft includes a homepage, catalogue, category pages, product pages, About, Projects, and Contact. It intentionally has no active form, newsletter submission, account, cart, or checkout. Those need approved business data, a secure destination, or express e-commerce approval.
 
@@ -39,7 +39,7 @@ The draft includes a homepage, catalogue, category pages, product pages, About, 
 - `index.html`: metadata and draft noindex setting.
 - `package.json`, lockfile and TypeScript/Vite configuration: local build and checks.
 
-There is no database, migration, CRM integration, secret, or deployment configuration in this draft.
+There is no database, migration, CRM integration, or secret in this draft. The GitHub Actions workflow publishes a public review preview from `main`; it is not brand-controlled production hosting.
 
 ## 5. Risks and decisions
 
@@ -49,7 +49,7 @@ There is no database, migration, CRM integration, secret, or deployment configur
 4. **Remote images:** 159 gallery image entries still point to the Dutch staging host. These need approved local assets and reliable hosting before launch.
 5. **Local operations:** A real enquiry/newsletter workflow needs a centrally approved CRM and consent wording. The local draft collects no visitor information.
 6. **E-commerce:** Cart and checkout in the Dutch reference are outside this draft because local e-commerce requires express approval and verified payment, tax, delivery, returns and security processes.
-7. **Deployment:** Brand-controlled domain/hosting, account recovery, HTTPS, restricted staging, backups and monitoring are not configured. The local development server is not a production host.
+7. **Deployment:** Brand-controlled domain/hosting, account recovery, restricted staging, backups and monitoring are not configured. The GitHub Pages preview is public and must not be treated as the official franchise launch.
 8. **Legal and accessibility:** Ethiopia-specific legal pages and a full WCAG 2.2 AA audit remain required. Do not publish empty legal pages.
 
 ## 6. Next implementation after approvals

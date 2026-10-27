@@ -1,6 +1,10 @@
 # Maison Debrah Ethiopia — local staging-reference draft
 
-A separate English-language React/Vite draft based on the public structure and visual direction of [Maison Debrah's Dutch staging site](https://staging5.nl.maisondebrah.com/). This project is for local review only. It is not the approved franchise website and has not been deployed.
+A separate English-language React/Vite draft based on the public structure and visual direction of [Maison Debrah's Dutch staging site](https://staging5.nl.maisondebrah.com/). This project is a draft for review. The GitHub Pages preview is public, but it is not an approved franchise launch.
+
+## Public draft preview
+
+[View the Ethiopia draft](https://yohannesmulugeta.github.io/Maison-Debrah-et/) after the Pages workflow finishes. The URL is a GitHub Pages preview, not a Maison Debrah-controlled domain.
 
 ## Run locally
 
@@ -37,6 +41,6 @@ Maison Debrah must confirm the Ethiopia sitemap, wireframes, visual design, func
 - Approved CRM or secure lead workflow, newsletter system, privacy notices, cookie consent, analytics, backups, monitoring, maintenance, and incident process.
 - Express permission before adding account, basket, or checkout functions.
 
-`index.html` includes `noindex, nofollow` for this local draft. Remove that only at an approved launch. Any future static hosting must support fallback routing for direct links such as `/product/orvella`.
+`index.html` includes `noindex, nofollow` for this draft. Remove that only at an approved launch. GitHub Pages uses hash routes such as `/#/product/orvella` so page refreshes work without server rewrites.
 
 See [PLAN.md](PLAN.md) for the reference audit, delivery stages, and risks.
