@@ -39,6 +39,15 @@ const menuGroups = [
     { label: 'Customer service', to: '/customer-service' }, { label: 'Frequently asked questions', to: '/faq' },
   ] },
 ]
+const megaMenuImages: Record<string, string> = { Furniture: '3.jpg', Lighting: '2.jpg', Decoration: '5.jpg' }
+
+function DesktopMenu({ group, openMenu, setOpenMenu }: { group: (typeof menuGroups)[number]; openMenu: string | null; setOpenMenu: (value: string | null) => void }) {
+  const image = megaMenuImages[group.label]
+  return <div className={`nav-menu ${image ? 'nav-menu--mega' : 'nav-menu--simple'}`} data-open={openMenu === group.label} onMouseEnter={() => setOpenMenu(group.label)} onMouseLeave={() => setOpenMenu(null)} onFocus={() => setOpenMenu(group.label)} onBlur={(event) => { if (!event.currentTarget.contains(event.relatedTarget)) setOpenMenu(null) }} onKeyDown={(event) => { if (event.key === 'Escape') setOpenMenu(null) }}>
+    <div className="nav-menu-trigger"><NavLink to={group.to}>{group.label}</NavLink><button className="nav-chevron" type="button" aria-label={`Open ${group.label} menu`} aria-expanded={openMenu === group.label} onClick={() => setOpenMenu(group.label)}><span aria-hidden="true" /></button></div>
+    <div className={`nav-dropdown ${image ? 'nav-dropdown--mega' : 'nav-dropdown--simple'}`}><div className="nav-dropdown-panel"><div className="nav-dropdown-links">{group.items.map((item) => <Link key={`${group.label}-${item.to}`} to={item.to}>{item.label}</Link>)}</div>{image && <img src={reference(image)} alt="" />}</div></div>
+  </div>
+}
 
 function Icon({ name }: { name: 'search' | 'account' | 'cart' }) {
   if (name === 'search') return <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.7" cy="10.7" r="6.8" /><path d="m16 16 5 5" /></svg>
@@ -72,9 +81,9 @@ function Header({ count }: { count: number }) {
       </div>
       <nav className="desktop-nav" aria-label="Main navigation" onClick={(event) => { if ((event.target as Element).closest('a')) setOpenMenu(null) }}>
         <NavLink to="/" end>Home</NavLink>
-        {menuGroups.slice(0, 5).map((group) => <div className="nav-menu" data-open={openMenu === group.label} key={group.label}><div className="nav-menu-trigger"><NavLink to={group.to}>{group.label}</NavLink><button type="button" aria-label={`Open ${group.label} menu`} aria-expanded={openMenu === group.label} onClick={() => setOpenMenu(openMenu === group.label ? null : group.label)}>⌄</button></div><div className="nav-dropdown"><Link to={group.to}>View all {group.label.toLowerCase()}</Link>{group.items.map((item) => <Link key={`${group.label}-${item.to}`} to={item.to}>{item.label}</Link>)}</div></div>)}
+        {menuGroups.slice(0, 5).map((group) => <DesktopMenu group={group} openMenu={openMenu} setOpenMenu={setOpenMenu} key={group.label} />)}
         <a href={brochureUrl} target="_blank" rel="noreferrer">Brochure</a>
-        <div className="nav-menu" data-open={openMenu === 'Contact'}><div className="nav-menu-trigger"><NavLink to="/contact">Contact</NavLink><button type="button" aria-label="Open Contact menu" aria-expanded={openMenu === 'Contact'} onClick={() => setOpenMenu(openMenu === 'Contact' ? null : 'Contact')}>⌄</button></div><div className="nav-dropdown"><Link to="/contact">Contact</Link>{menuGroups[5].items.map((item) => <Link key={item.to} to={item.to}>{item.label}</Link>)}</div></div>
+        <DesktopMenu group={menuGroups[5]} openMenu={openMenu} setOpenMenu={setOpenMenu} />
       </nav>
       {open && <div className="mobile-shade" onClick={() => setOpen(false)}><nav className="mobile-nav" aria-label="Mobile navigation" onClick={(event) => { if ((event.target as Element).closest('a')) setOpen(false); event.stopPropagation() }}><div className="mobile-top"><strong>Maison Debrah</strong><button type="button" onClick={() => setOpen(false)} aria-label="Close menu">×</button></div><Link to="/">Home</Link>{menuGroups.map((group) => <details key={group.label}><summary>{group.label}</summary><Link to={group.to}>View all {group.label.toLowerCase()}</Link>{group.items.map((item) => <Link to={item.to} key={`${group.label}-${item.to}`}>{item.label}</Link>)}</details>)}<a href={brochureUrl} target="_blank" rel="noreferrer">Brochure</a><Link to="/account">My account</Link><Link to="/cart">Cart ({count})</Link></nav></div>}
     </header>
