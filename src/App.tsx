@@ -6,7 +6,7 @@ import siteData from './data/site.json'
 const ETHIOPIA_CONTACT = siteData.contact
 const HOME_CONTENT = siteData.home
 
-const asset = (src: string) => src.startsWith('/') ? `${import.meta.env.BASE_URL}${src.slice(1)}` : src
+const asset = (src: string) => src.startsWith('/') && !src.startsWith(import.meta.env.BASE_URL) ? `${import.meta.env.BASE_URL}${src.slice(1)}` : src
 const reference = (name: string) => asset(`/images/reference-home/${name}`)
 const brochureUrl = 'https://online.flippingbook.com/view/1004331464/'
 
