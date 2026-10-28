@@ -26,6 +26,8 @@ npm.cmd run build
 
 ## Edit content with Pages CMS
 
+Staff can bookmark the [content editor entrance](https://yohannesmulugeta.github.io/Maison-Debrah-et/admin/). It links directly to the homepage, product, and media editors; editing still requires Pages CMS access.
+
 This repository is configured for [Pages CMS](https://pagescms.org/). After the `.pages.yml` configuration is on GitHub `main`, sign in at [app.pagescms.org](https://app.pagescms.org/) with GitHub, install the Pages CMS GitHub App for this repository, and select the `main` branch. The editor provides **Products** and **Homepage and contact**. Saving a change commits the JSON file to GitHub; the existing Pages workflow then validates, builds, and deploys the site. Check the workflow result before treating an edit as published.
 
 - Products are kept in `public/data/products.json` as one list. Give new products a unique numeric ID and slug; keep existing IDs and slugs to preserve page links. Category IDs must match `src/data/categories.json`.
