@@ -64,3 +64,7 @@ There is no database, migration, CRM integration, or secret in this draft. The G
 ## 7. Reference-alignment change — 28 October 2026
 
 The user approved a closer recreation of the Dutch staging site while retaining English translation, React/Vite and GitHub Pages. The earlier simplified homepage and navigation are superseded. The preview now reproduces the observed homepage section order, reference imagery, full desktop menu/dropdowns, search, account/cart links, detailed footer and a local browser cart. Form, account and checkout screens remain non-transactional because this static Pages deployment has no approved backend. The staging host timed out on deeper pages during this work, so their exact content and layout still require a source comparison when it is reachable.
+
+## 8. Desktop homepage and catalogue pass — 28 October 2026
+
+The user narrowed this pass to desktop appearance, the existing product images, and English translation. The homepage section positions and sizing were matched against the staging desktop view. The shop and one product page were reachable and compared directly. The catalogue keeps all 268 existing products and images, adds the staging shop order and published euro prices, and uses reference-style desktop filters, cards and product detail spacing. The euro amounts are visual reference data only; they are not approved Ethiopia prices. No database, WordPress, WooCommerce, account or checkout implementation is part of this pass. Mobile and policy/service pages remain outside this visual comparison.

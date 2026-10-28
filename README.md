@@ -27,14 +27,14 @@ npm.cmd run build
 
 - Responsive English homepage using the reference's hero, paired collection panels, eight featured products, catalogue banner, five chair cards, showroom/consultation panels, newsletter panel and five-column footer.
 - Reference-style desktop header with category dropdowns, product search, brochure, account and cart links; mobile menu; floating cart and language links.
-- Searchable, categorized, paginated catalogue with 268 product records and 27 categories captured from the staging site's public WooCommerce Store API on 27 October 2026.
-- Product detail pages with the reference site's names, images, SKU, available descriptions and published attributes. Product and collection names are unchanged. A browser-stored cart supports add, quantity, remove and persistence across refreshes.
+- Searchable, categorized, paginated catalogue with the same 268 product records and 27 categories as the staging site. Desktop cards follow the staging shop order and show its published euro prices where available.
+- Product detail pages with the reference site's names, images, available summary text, euro price where published, category and related products. Product and collection names are unchanged. A browser-stored cart supports add, quantity, remove and persistence across refreshes.
 - Local images for 693 product gallery entries, reused by filename from the user's earlier public Maison Debrah recreation. The remaining 159 entries still use the staging host and may be unavailable when that site is down.
 - Clear loading, empty and error states. Forms, account access, checkout, payment and newsletter delivery are visible but not connected to a server; the preview does not submit orders or personal information.
 
 ## Remaining reference gaps
 
-The staging host timed out on deeper pages during the 28 October 2026 alignment work. The homepage and menu were inspected directly, but product/shop detail layouts and policy/service page copy could not be rechecked against the source. Those secondary pages are navigable in this preview, with explicit notices where source content or backend behavior is unavailable. Prices remain absent from the captured product data. Do not describe this as a complete pixel-identical or transactional replica until those gaps are resolved and checked page by page.
+The desktop homepage, shop and a representative product page were compared directly with the staging site on 28 October 2026. The 268 product records retain existing images and now include the source shop order and published euro prices; products without a published price show a request message. These prices are reference data, not approved Ethiopia selling prices. Policy and service page copy has not been matched page by page. Account, checkout and forms remain preview-only. Mobile layout was not part of this desktop alignment pass.
 
 ## Before this could launch
 
