@@ -60,3 +60,7 @@ There is no database, migration, CRM integration, or secret in this draft. The G
 4. Add approved analytics/cookie controls and monthly reporting.
 5. Move source and hosting into Maison Debrah-controlled accounts, configure restricted staging and recovery access.
 6. Complete end-to-end, accessibility, performance, security and backup-restore checks before the brand's written launch decision.
+
+## 7. Reference-alignment change — 28 October 2026
+
+The user approved a closer recreation of the Dutch staging site while retaining English translation, React/Vite and GitHub Pages. The earlier simplified homepage and navigation are superseded. The preview now reproduces the observed homepage section order, reference imagery, full desktop menu/dropdowns, search, account/cart links, detailed footer and a local browser cart. Form, account and checkout screens remain non-transactional because this static Pages deployment has no approved backend. The staging host timed out on deeper pages during this work, so their exact content and layout still require a source comparison when it is reachable.
