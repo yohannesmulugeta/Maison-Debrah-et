@@ -1,6 +1,6 @@
 import categoriesData from './categories.json'
 
-export type Product = { id: number; name: string; slug: string; sku: string; summary: string; description: string; categories: { id: number; name: string; slug: string }[]; images: { src: string; thumbnail: string; alt: string }[]; dimensions: string; attributes: { name: string; terms: string[] }[]; price: number | null; shopOrder: number }
+export type Product = { id: number; name: string; slug: string; sku: string; summary: string; description: string; categories: { id: number; name: string; slug: string }[]; images: { src: string; thumbnail: string; alt: string }[]; dimensions: string; attributes: { name: string; terms: { id: number; name: string; slug: string }[] }[]; price: number | null; shopOrder: number }
 export type Category = (typeof categoriesData)[number]
 
 export const categories: Category[] = categoriesData.filter((category) => category.slug !== 'uncategorized')

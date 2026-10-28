@@ -20,8 +20,18 @@ Open the local URL printed by Vite. Available routes include `/`, `/shop`, `/col
 ```powershell
 npm.cmd run typecheck
 npm.cmd run lint
+npm.cmd run validate:content
 npm.cmd run build
 ```
+
+## Edit content with Pages CMS
+
+This repository is configured for [Pages CMS](https://pagescms.org/). After the `.pages.yml` configuration is on GitHub `main`, sign in at [app.pagescms.org](https://app.pagescms.org/) with GitHub, install the Pages CMS GitHub App for this repository, and select the `main` branch. The editor provides **Products** and **Homepage and contact**. Saving a change commits the JSON file to GitHub; the existing Pages workflow then validates, builds, and deploys the site. Check the workflow result before treating an edit as published.
+
+- Products are kept in `public/data/products.json` as one list. Give new products a unique numeric ID and slug; keep existing IDs and slugs to preserve page links. Category IDs must match `src/data/categories.json`.
+- Upload new product photos in the CMS Media area (`public/media`). Copy the resulting `/media/...` path into both image URL and thumbnail URL; existing local and external image URLs remain unchanged.
+- Homepage copy and Ethiopia contact details live in `src/data/site.json`. The CMS does not edit layout, other page copy, or `index.html` metadata.
+- Because all products share one JSON file, simultaneous product edits can conflict. Coordinate edits and review Git history if a save needs to be reverted.
 
 ## What is implemented
 

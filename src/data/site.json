@@ -1,0 +1,31 @@
+{
+  "contact": {
+    "brandName": "Maison Debrah Ethiopia",
+    "showroom": "Bole Sub-City, Namibia Street, Addis Ababa, Ethiopia",
+    "phone": "+251 937 928 215",
+    "whatsappRaw": "251937928215",
+    "email": "ethiopia@maisondebrah.com",
+    "hoursWeekday": "Monday – Friday: 9:00 AM – 7:00 PM",
+    "hoursSaturday": "Saturday: 9:30 AM – 6:00 PM",
+    "hoursSunday": "Sunday: By appointment only"
+  },
+  "home": {
+    "heroTitle": "View the Autumn Collection 2026",
+    "heroDescription": "Curated European luxury furniture and architectural lighting for distinctive residences and hospitality spaces in Addis Ababa.",
+    "heroButton": "Explore collection",
+    "lightingEyebrow": "Create an interior with character",
+    "lightingTitle": "Discover the lighting collection",
+    "sofasEyebrow": "The heart of your interior",
+    "sofasTitle": "Explore sofas and sectionals",
+    "featuredTitle": "New & popular",
+    "catalogueEyebrow": "Learn more about Maison Debrah Ethiopia",
+    "catalogueTitle": "Request the catalogue",
+    "chairsTitle": "Armchairs & Statement Seating",
+    "showroomEyebrow": "Experience the world of Maison Debrah",
+    "showroomTitle": "Visit the Addis Ababa showroom",
+    "consultationEyebrow": "Bring your interior vision to life",
+    "consultationTitle": "Request a design consultation",
+    "newsletterEyebrow": "Stay up to date with Maison Debrah Ethiopia",
+    "newsletterTitle": "Sign up for private previews & news"
+  }
+}

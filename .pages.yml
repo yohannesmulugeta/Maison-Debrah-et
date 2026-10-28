@@ -1,0 +1,186 @@
+media:
+  input: public/media
+  output: /media
+  categories: [image]
+
+content:
+  - name: products
+    label: Products
+    type: file
+    path: public/data/products.json
+    format: json
+    list: true
+    operations:
+      delete: false
+    fields:
+      - name: id
+        label: Product ID
+        type: number
+        required: true
+        description: Keep existing IDs. New products need a unique whole-number ID.
+      - name: name
+        type: string
+        required: true
+      - name: slug
+        type: string
+        required: true
+        description: The product page URL uses this value. Do not change it on an existing product.
+        pattern: "^[a-z0-9-]+$"
+      - name: sku
+        label: SKU
+        type: string
+      - name: summary
+        type: text
+      - name: description
+        type: text
+      - name: categories
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{name}"
+        fields:
+          - name: id
+            type: number
+            required: true
+            description: Use the ID from src/data/categories.json.
+          - name: name
+            type: string
+            required: true
+          - name: slug
+            type: string
+            required: true
+      - name: images
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{alt}"
+        fields:
+          - name: src
+            label: Image URL
+            type: string
+            required: true
+            description: Upload under Media, then paste its /media/... path. Existing external URLs are supported.
+          - name: thumbnail
+            label: Thumbnail URL
+            type: string
+            required: true
+            description: Usually the same path as the image URL.
+          - name: alt
+            label: Image description
+            type: string
+      - name: dimensions
+        type: string
+      - name: attributes
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{name}"
+        fields:
+          - name: name
+            type: string
+          - name: terms
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{name}"
+            fields:
+              - name: id
+                type: number
+              - name: name
+                type: string
+              - name: slug
+                type: string
+      - name: price
+        type: number
+        description: Optional reference price; leave blank when the product is price-on-request.
+        options:
+          min: 0
+      - name: shopOrder
+        label: Display order
+        type: number
+
+  - name: site
+    label: Homepage and contact
+    type: file
+    path: src/data/site.json
+    format: json
+    operations:
+      delete: false
+    fields:
+      - name: contact
+        label: Ethiopia contact
+        type: object
+        fields:
+          - name: brandName
+            label: Brand name
+            type: string
+            required: true
+          - name: showroom
+            type: string
+            required: true
+          - name: phone
+            type: string
+            required: true
+          - name: whatsappRaw
+            label: WhatsApp number (digits only)
+            type: string
+            required: true
+            pattern: "^[0-9]+$"
+          - name: email
+            type: string
+            required: true
+          - name: hoursWeekday
+            label: Weekday hours
+            type: string
+          - name: hoursSaturday
+            label: Saturday hours
+            type: string
+          - name: hoursSunday
+            label: Sunday hours
+            type: string
+      - name: home
+        label: Homepage text
+        type: object
+        fields:
+          - name: heroTitle
+            label: Hero title
+            type: string
+            required: true
+          - name: heroDescription
+            label: Hero description
+            type: text
+          - name: heroButton
+            label: Hero button
+            type: string
+          - name: lightingEyebrow
+            type: string
+          - name: lightingTitle
+            type: string
+          - name: sofasEyebrow
+            type: string
+          - name: sofasTitle
+            type: string
+          - name: featuredTitle
+            type: string
+          - name: catalogueEyebrow
+            type: string
+          - name: catalogueTitle
+            type: string
+          - name: chairsTitle
+            type: string
+          - name: showroomEyebrow
+            type: string
+          - name: showroomTitle
+            type: string
+          - name: consultationEyebrow
+            type: string
+          - name: consultationTitle
+            type: string
+          - name: newsletterEyebrow
+            type: string
+          - name: newsletterTitle
+            type: string
