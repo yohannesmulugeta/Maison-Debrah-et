@@ -1,0 +1,41 @@
+{
+  "id": 8360,
+  "name": "Lynor",
+  "slug": "lynor",
+  "sku": "BH25301",
+  "summary": "Lynor features a fully upholstered body wrapped in smooth, continuous fabric that gives it a soft, refined presence. The clean lines sit over a light grey ash veneer base, adding a natural touch and a hint of contrast. The combination creates a modern, composed piece with an understated luxury. Main body all covered with fabric ,base in light grey ash veneer. 169x60x53",
+  "description": "",
+  "categories": [
+    {
+      "id": 242,
+      "name": "Benches",
+      "slug": "benches"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/BH25301-1.jpg",
+      "thumbnail": "/media/2025/12/BH25301-1.jpg",
+      "alt": "Lynor — Benches by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/BH25301-2.jpg",
+      "thumbnail": "/media/2025/12/BH25301-2.jpg",
+      "alt": "Lynor — Benches by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/BH25301-3.jpg",
+      "thumbnail": "/media/2025/12/BH25301-3.jpg",
+      "alt": "Lynor — Benches by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/BH25301-4.jpg",
+      "thumbnail": "/media/2025/12/BH25301-4.jpg",
+      "alt": "Lynor — Benches by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 152
+}

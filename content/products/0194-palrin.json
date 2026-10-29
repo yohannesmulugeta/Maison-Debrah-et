@@ -1,0 +1,31 @@
+{
+  "id": 8676,
+  "name": "Palrin",
+  "slug": "palrin",
+  "sku": "Y-C25086",
+  "summary": "Top in 12mm clear glass, Solid elm wood top frame and legs in dark gray (MP-2306#). 140x97x35.5",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/Y-C25086-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/02/Y-C25086-1200x1200-2.jpg",
+      "alt": "Palrin — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/Y-C25086-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/Y-C25086-1200x1200-1.jpg",
+      "alt": "Palrin — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 100
+}

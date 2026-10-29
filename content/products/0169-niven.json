@@ -1,0 +1,36 @@
+{
+  "id": 8534,
+  "name": "Niven",
+  "slug": "niven",
+  "sku": "E25052",
+  "summary": "Niven showcases a Maple Brown marble top in a leathered finish, giving the surface a deep, tactile richness with beautifully subdued movement. The vintage brass painted metal frame adds a warm, timeless glow that complements the stone’s natural depth. The overall look is sculptural, refined and quietly opulent. Maple brown marble top(leathering finish), metal frame paint vintage brass. 38×48",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/E25052.jpg",
+      "thumbnail": "/media/2025/12/E25052.jpg",
+      "alt": "Niven — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/E25052（2）.jpg",
+      "thumbnail": "/media/2025/12/E25052（2）.jpg",
+      "alt": "Niven — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/E25052（1）.jpg",
+      "thumbnail": "/media/2025/12/E25052（1）.jpg",
+      "alt": "Niven — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 122
+}

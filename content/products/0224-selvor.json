@@ -1,0 +1,46 @@
+{
+  "id": 8827,
+  "name": "Selvor",
+  "slug": "selvor",
+  "sku": "DC25068",
+  "summary": "Covered with fabric B-2536#(G656-7A),metal painted in matt black color. 59x62x77",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/DC25068-B-2536-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/DC25068-B-2536-1200x1200-1.jpg",
+      "alt": "Selvor — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/DC25068-B-2536-1200x1200-5.jpg",
+      "thumbnail": "/media/2026/03/DC25068-B-2536-1200x1200-5.jpg",
+      "alt": "Selvor — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/DC25068-B-2536-1200x1200-4.jpg",
+      "thumbnail": "/media/2026/03/DC25068-B-2536-1200x1200-4.jpg",
+      "alt": "Selvor — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/DC25068-B-2536-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/03/DC25068-B-2536-1200x1200-3.jpg",
+      "alt": "Selvor — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/DC25068-B-2536-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/DC25068-B-2536-1200x1200-2.jpg",
+      "alt": "Selvor — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 69
+}

@@ -1,0 +1,26 @@
+{
+  "id": 8340,
+  "name": "Nivara",
+  "slug": "nivara",
+  "sku": "DB-DS202500751",
+  "summary": "Nivara is a wall lamp of serene beauty, its luminous surface revealing the quiet elegance of natural veining touched with golden refinement. More than a source of light, it brings a sense of calm radiance to the wall—graceful, timeless, and beautifully composed. L150*W100*H480mm / Alabaster+Steel",
+  "description": "",
+  "categories": [
+    {
+      "id": 145,
+      "name": "Wandlampen",
+      "slug": "wandlampen"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/09/DB-DS202500751.jpg",
+      "thumbnail": "/media/2025/09/DB-DS202500751.jpg",
+      "alt": "Nivara — Wandlampen by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 155
+}

@@ -1,0 +1,41 @@
+{
+  "id": 8016,
+  "name": "Viorelle",
+  "slug": "viorelle",
+  "sku": "DC23068-1111",
+  "summary": "Viorelle is defined by graceful balance and quiet strength. Upholstered in rich, textured fabric, the seat and backrest invite comfort while maintaining a refined silhouette. The base, crafted in stainless steel with brushed finishes of nickel or bronze, lends a sculptural elegance that anchors the design. Subtle yet striking, it carries the poise of contemporary European living, bringing sophistication to both modern and classic interiors. 59x59x80",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23068-11111-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23068-11111-1-500x500.jpg",
+      "alt": "Viorelle — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23068-11112.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23068-11112-500x500.jpg",
+      "alt": "Viorelle — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23068-11114.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23068-11114-500x500.jpg",
+      "alt": "Viorelle — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23068-11113.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23068-11113-500x500.jpg",
+      "alt": "Viorelle — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 215
+}

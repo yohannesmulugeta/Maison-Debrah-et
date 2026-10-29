@@ -1,0 +1,31 @@
+{
+  "id": 8783,
+  "name": "Ovel",
+  "slug": "ovel",
+  "sku": "",
+  "summary": "1.main body covered with fabric B-2504#(KSC20057LB-3), stainless steel legs in yellow copper brushed WJ-04. 2.main body covered with fabric B-2504#(KSC20057LB-3), stainless steel legs in yellow copper brushed WJ-04. 69x93x68",
+  "description": "",
+  "categories": [
+    {
+      "id": 134,
+      "name": "Fauteuils &amp; statement stoelen",
+      "slug": "fauteuils-statement-stoelen"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/RC25115-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/RC25115-1200x1200-1.jpg",
+      "alt": "Ovel — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/RC25115-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/RC25115-1200x1200-2.jpg",
+      "alt": "Ovel — Fauteuils &amp; statement stoelen by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 79
+}

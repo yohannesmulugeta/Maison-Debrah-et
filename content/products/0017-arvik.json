@@ -1,0 +1,26 @@
+{
+  "id": 8739,
+  "name": "Arvik",
+  "slug": "arvik",
+  "sku": "CS24235",
+  "summary": "Top with light gray elm veneer MP-2307#, metal legs in brass metallic paint W2303#. 160x40x76",
+  "description": "",
+  "categories": [
+    {
+      "id": 138,
+      "name": "Consoletafels",
+      "slug": "consoletafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/CS24235-1200x1200-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/CS24235-1200x1200-1-500x500.jpg",
+      "alt": "Arvik — Consoletafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 149500,
+  "shopOrder": 16
+}

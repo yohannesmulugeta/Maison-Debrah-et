@@ -1,0 +1,41 @@
+{
+  "id": 8015,
+  "name": "Ysoria",
+  "slug": "ysoria",
+  "sku": "DC23067-1111",
+  "summary": "Ysoria captures the essence of understated luxury. The back and seat are upholstered in imitation leather, smooth to the touch and crafted for lasting refinement. Its clean, fluid lines give it a sculptural presence, while the finish brings quiet allure to any setting. Designed with both comfort and style in mind, it embodies the effortless grace of modern European living. 58x63x80",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23067-11111.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23067-11111-500x500.jpg",
+      "alt": "Ysoria — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23067-11112.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23067-11112-500x500.jpg",
+      "alt": "Ysoria — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23067-11113.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23067-11113-500x500.jpg",
+      "alt": "Ysoria — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23067-11114.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC23067-11114-500x500.jpg",
+      "alt": "Ysoria — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 216
+}

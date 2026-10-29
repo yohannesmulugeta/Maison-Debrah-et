@@ -1,0 +1,31 @@
+{
+  "id": 8208,
+  "name": "Sevianne",
+  "slug": "sevianne",
+  "sku": "CM24090",
+  "summary": "Sevianne draws its character from the richness of black glass, layered with a molten texture that lends depth and intrigue. A mirrored front introduces light and clarity, while the matte black backboard grounds the design in quiet strength. Elegant and composed, it embodies a modern sensibility where shadow and reflection meet in refined harmony.",
+  "description": "",
+  "categories": [
+    {
+      "id": 239,
+      "name": "Spiegels",
+      "slug": "spiegels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/CM24090-2.jpg",
+      "thumbnail": "/media/2025/08/CM24090-2.jpg",
+      "alt": "Sevianne — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/CM24090-1.jpg",
+      "thumbnail": "/media/2025/08/CM24090-1.jpg",
+      "alt": "Sevianne — Spiegels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 177
+}

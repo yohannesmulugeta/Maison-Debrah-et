@@ -1,0 +1,31 @@
+{
+  "id": 8895,
+  "name": "Kelmor",
+  "slug": "kelmor",
+  "sku": "RD24067",
+  "summary": "Metal legs in brass metallic W2303#, metal base frame in black matt. base and sheet panels painted in brass metallic W2303#. 110x36x200",
+  "description": "",
+  "categories": [
+    {
+      "id": 141,
+      "name": "Boekenkasten &amp; planken",
+      "slug": "boekenkasten-planken"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/RD24067-1200x1200-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/RD24067-1200x1200-1-500x500.jpg",
+      "alt": "Kelmor — Boekenkasten &amp; planken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/RD24067-1200x1200-2.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/RD24067-1200x1200-2-500x500.jpg",
+      "alt": "Kelmor — Boekenkasten &amp; planken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 199500,
+  "shopOrder": 7
+}

@@ -1,0 +1,41 @@
+{
+  "id": 8607,
+  "name": "Solix",
+  "slug": "solix",
+  "sku": "Y-DO25076",
+  "summary": "Solix features a body finished in brass metallic paint, giving it a warm, contemporary glow with solid presence. The drawer front is wrapped in light grey matte elm veneer, adding a refined texture that softens the metallic frame. Inside, melamine panels keep the interior neat and structured, rounding out a design that feels modern and well composed. The body paint in brass metallic, drawer front panel cover with elm veneer in light grey matt inner panels with melamine. 150x45x78",
+  "description": "",
+  "categories": [
+    {
+      "id": 141,
+      "name": "Boekenkasten &amp; planken",
+      "slug": "boekenkasten-planken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/Y-DO250761.jpg",
+      "thumbnail": "/media/2025/12/Y-DO250761.jpg",
+      "alt": "Solix — Boekenkasten &amp; planken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/Y-DO250762.jpg",
+      "thumbnail": "/media/2025/12/Y-DO250762.jpg",
+      "alt": "Solix — Boekenkasten &amp; planken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/Y-DO250763.jpg",
+      "thumbnail": "/media/2025/12/Y-DO250763.jpg",
+      "alt": "Solix — Boekenkasten &amp; planken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/Y-DO250764.jpg",
+      "thumbnail": "/media/2025/12/Y-DO250764.jpg",
+      "alt": "Solix — Boekenkasten &amp; planken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 195000,
+  "shopOrder": 11
+}

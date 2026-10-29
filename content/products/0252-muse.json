@@ -1,0 +1,57 @@
+{
+  "id": 7930,
+  "name": "muse",
+  "slug": "muse",
+  "sku": "",
+  "summary": "Muse is thoughtfully upholstered in sumptuous fabric, embracing every curve of its silhouette. Its base is designed with a concealed turntable, blending effortless motion with understated elegance. 91.5×81.5×68.5 / 254x114x74.5",
+  "description": "",
+  "categories": [
+    {
+      "id": 133,
+      "name": "Banken &amp; hoekbanken",
+      "slug": "banken-hoekbanken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/SF24002-A3-1.jpg",
+      "thumbnail": "/media/2025/08/SF24002-A3-1.jpg",
+      "alt": "muse — Banken &amp; hoekbanken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/SF24002-A3-3.jpg",
+      "thumbnail": "/media/2025/08/SF24002-A3-3.jpg",
+      "alt": "muse — Banken &amp; hoekbanken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/SF24002-A3-4.jpg",
+      "thumbnail": "/media/2025/08/SF24002-A3-4.jpg",
+      "alt": "muse — Banken &amp; hoekbanken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/SF24002-A3-1-1.jpg",
+      "thumbnail": "/media/2025/08/SF24002-A3-1-1.jpg",
+      "alt": "muse — Banken &amp; hoekbanken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [
+    {
+      "name": "Dimensions",
+      "terms": [
+        {
+          "id": 0,
+          "name": "254x114x74.5",
+          "slug": "254x114x74.5"
+        },
+        {
+          "id": 0,
+          "name": "91.5x81.5x68.5",
+          "slug": "91.5x81.5x68.5"
+        }
+      ]
+    }
+  ],
+  "price": null,
+  "shopOrder": 234
+}

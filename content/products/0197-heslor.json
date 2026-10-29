@@ -1,0 +1,36 @@
+{
+  "id": 8679,
+  "name": "Heslor",
+  "slug": "heslor",
+  "sku": "C25067",
+  "summary": "Top in Silver-gray travertine in matte finish TRS-2402, and the panel & supporting plate are in khaki high-gloss paint (W2504#);Leg: One side with silver-gray travertine, and the other side in khaki high-gloss paint (W2504#) 140x75x35",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/C25067-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/C25067-1200x1200-1.jpg",
+      "alt": "Heslor — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/C25067-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/02/C25067-1200x1200-2.jpg",
+      "alt": "Heslor — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/C25067-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/02/C25067-1200x1200-3.jpg",
+      "alt": "Heslor — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 97
+}

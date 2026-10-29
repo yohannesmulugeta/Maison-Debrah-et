@@ -1,0 +1,41 @@
+{
+  "id": 8675,
+  "name": "Rivano",
+  "slug": "rivano",
+  "sku": "C24252-001",
+  "summary": "Top MDF covered with elm veneer dark grey MP-2306, solid wood edge, fibre glass base with elm veneer dark grey MP-2306 120×109.5×35.5",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/C24252-001MP-2306-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/C24252-001MP-2306-1200x1200-1.jpg",
+      "alt": "Rivano — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/C24252-001MP-2306-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/02/C24252-001MP-2306-1200x1200-2.jpg",
+      "alt": "Rivano — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/C24252-001MP-2306-1200x1200-4.jpg",
+      "thumbnail": "/media/2026/02/C24252-001MP-2306-1200x1200-4.jpg",
+      "alt": "Rivano — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/C24252-001MP-2306-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/02/C24252-001MP-2306-1200x1200-3.jpg",
+      "alt": "Rivano — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 101
+}

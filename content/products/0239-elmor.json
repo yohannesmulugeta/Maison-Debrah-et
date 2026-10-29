@@ -1,0 +1,31 @@
+{
+  "id": 8893,
+  "name": "Elmor",
+  "slug": "elmor",
+  "sku": "T24232C",
+  "summary": "MDF top covered elm veneer in dark grey MP-2306#, MDF base covered sliver travertine marble paper(3659-101). decoration parts with stainless steel in bronze brushed WJ-04#. 280x115x76",
+  "description": "",
+  "categories": [
+    {
+      "id": 136,
+      "name": "Eetkamertafels",
+      "slug": "eetkamertafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T24232C-1200x1200-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T24232C-1200x1200-1-500x500.jpg",
+      "alt": "Elmor — Eetkamertafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T24232C-1200x1200-2.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T24232C-1200x1200-2-500x500.jpg",
+      "alt": "Elmor — Eetkamertafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 54
+}

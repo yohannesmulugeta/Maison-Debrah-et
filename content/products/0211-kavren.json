@@ -1,0 +1,31 @@
+{
+  "id": 8780,
+  "name": "Kavren",
+  "slug": "kavren",
+  "sku": "",
+  "summary": "Top covered silvery grey travertine marble matt TRS-2402#, metal decoration and pipe painted in black matt WJ-02#, body covered faux leather KXPZ2040-24#,inner panels with melamine W7006#. 240x45x80",
+  "description": "",
+  "categories": [
+    {
+      "id": 224,
+      "name": "TV-meubels",
+      "slug": "tv-meubels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/SB24092-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/SB24092-1200x1200-1.jpg",
+      "alt": "Kavren — TV-meubels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/SB24092-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/SB24092-1200x1200-2.jpg",
+      "alt": "Kavren — TV-meubels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 82
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8759,
+  "name": "Gralor",
+  "slug": "gralor",
+  "sku": "T25053A",
+  "summary": "Fendi white marble top matt TRS-2503# with white matt baseboard and metal support panel. fiberglass base painted in dual brass W2502#. 240x110x76",
+  "description": "",
+  "categories": [
+    {
+      "id": 136,
+      "name": "Eetkamertafels",
+      "slug": "eetkamertafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/T25053A-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/T25053A-1200x1200-1.jpg",
+      "alt": "Gralor — Eetkamertafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/T25053A-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/T25053A-1200x1200-2.jpg",
+      "alt": "Gralor — Eetkamertafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 86
+}

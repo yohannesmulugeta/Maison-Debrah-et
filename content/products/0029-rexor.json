@@ -1,0 +1,36 @@
+{
+  "id": 8785,
+  "name": "Rexor",
+  "slug": "rexor",
+  "sku": "RC25303",
+  "summary": "1.Main body all covered with fabric B-2512#(KS22327-3),base in dark gray ash veneer MP-2306#. 2.Main body all covered with fabric B-2535#(G656-5A),base in dark gray ash veneer MP-2306#. 78x75x70.5",
+  "description": "",
+  "categories": [
+    {
+      "id": 134,
+      "name": "Fauteuils &amp; statement stoelen",
+      "slug": "fauteuils-statement-stoelen"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/RC25303-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/RC25303-1200x1200-1.jpg",
+      "alt": "Rexor — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/RC25303-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/RC25303-1200x1200-2.jpg",
+      "alt": "Rexor — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/RC25303-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/03/RC25303-1200x1200-3.jpg",
+      "alt": "Rexor — Fauteuils &amp; statement stoelen by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 69500,
+  "shopOrder": 30
+}

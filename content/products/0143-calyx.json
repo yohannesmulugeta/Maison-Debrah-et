@@ -1,0 +1,36 @@
+{
+  "id": 8342,
+  "name": "Calyx",
+  "slug": "calyx",
+  "sku": "B25321",
+  "summary": "Calyx is fully upholstered in rich, continuous fabric that gives the piece a smooth, sculpted profile. The tailored finish highlights its clean geometry, while the black lacquered metal legs add a sharp, modern contrast. The combination creates a bed that feels refined, contemporary and quietly indulgent. all covered with fabric, metal legs lacquered in black 241x328x85.5 (180×200)",
+  "description": "",
+  "categories": [
+    {
+      "id": 139,
+      "name": "Bedden &amp; hoofdborden",
+      "slug": "bedden-hoofdborden"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/B25321.jpg",
+      "thumbnail": "/media/2025/12/B25321.jpg",
+      "alt": "Calyx — Bedden &amp; hoofdborden by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/B253211.jpg",
+      "thumbnail": "/media/2025/12/B253211.jpg",
+      "alt": "Calyx — Bedden &amp; hoofdborden by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/B253212.jpg",
+      "thumbnail": "/media/2025/12/B253212.jpg",
+      "alt": "Calyx — Bedden &amp; hoofdborden by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 153
+}

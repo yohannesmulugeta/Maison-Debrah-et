@@ -1,0 +1,36 @@
+{
+  "id": 8081,
+  "name": "Gwyneira",
+  "slug": "gwyneira",
+  "sku": "DC24242",
+  "summary": "Gwyneira is distinguished by its soft bounce fabric that lends both texture and comfort to its flowing silhouette. The design rests on a smooth round base, a sculptural foundation that adds balance and modern refinement. With its gentle curves and inviting presence, it brings a sense of serene elegance and timeless charm to contemporary interiors. 55x62x84",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/DC242421-1.jpg",
+      "thumbnail": "/media/2025/08/DC242421-1.jpg",
+      "alt": "Gwyneira — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/DC242422.jpg",
+      "thumbnail": "/media/2025/08/DC242422.jpg",
+      "alt": "Gwyneira — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/DC242423.jpg",
+      "thumbnail": "/media/2025/08/DC242423.jpg",
+      "alt": "Gwyneira — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 200
+}

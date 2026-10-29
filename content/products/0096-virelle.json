@@ -1,0 +1,36 @@
+{
+  "id": 8056,
+  "name": "Virelle",
+  "slug": "virelle",
+  "sku": "DC24050",
+  "summary": "Virelle is crafted in a choice of fabric or imitation leather, each finish creating a distinct mood of elegance. Its fully upholstered form gives it a sculptural presence, while seamless lines and tailored detailing highlight an attentive craft. With quiet confidence and timeless character, it brings warmth and distinction to contemporary living. 62x52x88",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC240501.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC240501-500x500.jpg",
+      "alt": "Virelle — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC240502.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC240502-500x500.jpg",
+      "alt": "Virelle — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC240503.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC240503-500x500.jpg",
+      "alt": "Virelle — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 207
+}

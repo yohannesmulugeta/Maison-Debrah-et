@@ -1,0 +1,36 @@
+{
+  "id": 8103,
+  "name": "Vallauris",
+  "slug": "vallauris",
+  "sku": "T24051",
+  "summary": "Vallauris is defined by a dark grey elm veneer top that reveals subtle grain and depth, resting above a base of honed New Bulgari black marble. The combination of natural wood and stone creates a striking balance of warmth and strength. Sculptural and refined, it stands as a statement of contemporary elegance shaped by timeless materials. Φ80×70",
+  "description": "",
+  "categories": [
+    {
+      "id": 136,
+      "name": "Eetkamertafels",
+      "slug": "eetkamertafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/T240511.jpg",
+      "thumbnail": "/media/2025/08/T240511.jpg",
+      "alt": "Vallauris — Eetkamertafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/T240512.jpg",
+      "thumbnail": "/media/2025/08/T240512.jpg",
+      "alt": "Vallauris — Eetkamertafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/T240513.jpg",
+      "thumbnail": "/media/2025/08/T240513.jpg",
+      "alt": "Vallauris — Eetkamertafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 195
+}

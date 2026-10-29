@@ -1,0 +1,31 @@
+{
+  "id": 7970,
+  "name": "Esprit",
+  "slug": "esprit",
+  "sku": "BN20230",
+  "summary": "Esprit radiates contemporary elegance. Its lustrous finish catches the light with subtle brilliance, creating a presence that feels vibrant yet refined. A statement of modern grace. Φ48×51",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN20230-2.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN20230-2-500x500.jpg",
+      "alt": "Esprit — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN20230-2-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN20230-2-1-500x357.jpg",
+      "alt": "Esprit — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 229
+}

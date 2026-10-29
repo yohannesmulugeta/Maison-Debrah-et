@@ -1,0 +1,31 @@
+{
+  "id": 8189,
+  "name": "Tavella",
+  "slug": "tavella",
+  "sku": "CM24041",
+  "summary": "Tavella pairs the clarity of mirror with the depth of a matte black base, creating a composition of quiet contrast. The frame, finished in radiant brass, outlines the form with refined strength and a touch of luminosity. Sleek and assured, it brings a contemporary elegance that is both commanding and understated.",
+  "description": "",
+  "categories": [
+    {
+      "id": 239,
+      "name": "Spiegels",
+      "slug": "spiegels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/CM24041-2.jpg",
+      "thumbnail": "/media/2025/08/CM24041-2.jpg",
+      "alt": "Tavella — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/CM24041-001-1.jpg",
+      "thumbnail": "/media/2025/08/CM24041-001-1.jpg",
+      "alt": "Tavella — Spiegels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 181
+}

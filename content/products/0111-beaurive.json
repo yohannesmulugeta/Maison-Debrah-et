@@ -1,0 +1,36 @@
+{
+  "id": 8127,
+  "name": "Beaurive",
+  "slug": "beaurive",
+  "sku": "T24070",
+  "summary": "Beaurive is defined by a light grey elm veneer top that highlights the gentle grain and natural beauty of the wood. The structure rests on an iron frame finished in a two-toned grey, a subtle detail that adds depth and modern character. With its balanced form and understated elegance, it is a piece that blends refinement with contemporary design. 240x110x76",
+  "description": "",
+  "categories": [
+    {
+      "id": 136,
+      "name": "Eetkamertafels",
+      "slug": "eetkamertafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/T240701.jpg",
+      "thumbnail": "/media/2025/08/T240701.jpg",
+      "alt": "Beaurive — Eetkamertafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/T240702.jpg",
+      "thumbnail": "/media/2025/08/T240702.jpg",
+      "alt": "Beaurive — Eetkamertafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/T240703.jpg",
+      "thumbnail": "/media/2025/08/T240703.jpg",
+      "alt": "Beaurive — Eetkamertafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 192
+}

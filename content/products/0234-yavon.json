@@ -1,0 +1,26 @@
+{
+  "id": 8872,
+  "name": "Yavon",
+  "slug": "yavon",
+  "sku": "",
+  "summary": "5mm mirror, the frame stainless steel plating in bronze brushed WJ-04, back panel in matt black color. 100x120x5",
+  "description": "",
+  "categories": [
+    {
+      "id": 239,
+      "name": "Spiegels",
+      "slug": "spiegels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/CM25115-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/CM25115-1200x1200-1.jpg",
+      "alt": "Yavon — Spiegels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 59
+}

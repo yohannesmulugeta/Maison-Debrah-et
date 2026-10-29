@@ -1,0 +1,41 @@
+{
+  "id": 7879,
+  "name": "tromso",
+  "slug": "tromso",
+  "sku": "E24067",
+  "summary": "Tromsø coffee table features a matte silver-grey marble top set on a sculpted brass-lacquered base. Understated yet striking, it offers a cool-toned elegance with a warm metallic finish. 60x60x45",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/E240671.jpg",
+      "thumbnail": "/media/2025/08/E240671.jpg",
+      "alt": "tromso — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/E240672.jpg",
+      "thumbnail": "/media/2025/08/E240672.jpg",
+      "alt": "tromso — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/E240674.jpg",
+      "thumbnail": "/media/2025/08/E240674.jpg",
+      "alt": "tromso — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/E240673.jpg",
+      "thumbnail": "/media/2025/08/E240673.jpg",
+      "alt": "tromso — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 59500,
+  "shopOrder": 35
+}

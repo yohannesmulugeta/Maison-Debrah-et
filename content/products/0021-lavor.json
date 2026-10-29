@@ -1,0 +1,31 @@
+{
+  "id": 8896,
+  "name": "Lavor",
+  "slug": "lavor",
+  "sku": "CS24067",
+  "summary": "Top covered oak veneer matt DR-02#, metal base painted in brass metallic W2303#. 160x42x76",
+  "description": "",
+  "categories": [
+    {
+      "id": 138,
+      "name": "Consoletafels",
+      "slug": "consoletafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/CS24067-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/CS24067-1200x1200-1.jpg",
+      "alt": "Lavor — Consoletafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/CS24067-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/CS24067-1200x1200-2.jpg",
+      "alt": "Lavor — Consoletafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 99500,
+  "shopOrder": 20
+}

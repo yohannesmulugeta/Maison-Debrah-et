@@ -1,0 +1,41 @@
+{
+  "id": 8234,
+  "name": "Morvella",
+  "slug": "morvella",
+  "sku": "AB21020",
+  "summary": "Morvella combines the richness of half leather with refined craftsmanship, its headboard and footboard accented by diagonal grain detailing that lends a sense of rhythm and structure. Slender stainless steel legs in a warm brass finish elevate the form with a touch of radiance. Confident and composed, it embodies contemporary luxury shaped by texture, proportion, and elegance. 285x226x112(180×200)",
+  "description": "",
+  "categories": [
+    {
+      "id": 139,
+      "name": "Bedden &amp; hoofdborden",
+      "slug": "bedden-hoofdborden"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/AB210201.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/AB210201-500x500.jpg",
+      "alt": "Morvella — Bedden &amp; hoofdborden by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/AB210202.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/AB210202-500x500.jpg",
+      "alt": "Morvella — Bedden &amp; hoofdborden by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/AB210204.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/AB210204-500x500.jpg",
+      "alt": "Morvella — Bedden &amp; hoofdborden by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/AB210203.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/AB210203-500x500.jpg",
+      "alt": "Morvella — Bedden &amp; hoofdborden by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 172
+}

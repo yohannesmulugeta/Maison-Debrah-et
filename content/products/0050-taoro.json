@@ -1,0 +1,41 @@
+{
+  "id": 7848,
+  "name": "taoro",
+  "slug": "taoro",
+  "sku": "E20211",
+  "summary": "Taoro coffee table features a Galaxy marble top set above a matte black base. Metal legs wrapped in faux leather and grey mirrored accents add a layered, modern finish Φ52×50",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E202111.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E202111-500x500.jpg",
+      "alt": "taoro — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E202112.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E202112-500x500.jpg",
+      "alt": "taoro — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E202114.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E202114-500x500.jpg",
+      "alt": "taoro — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E202113.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E202113-500x500.jpg",
+      "alt": "taoro — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 256
+}

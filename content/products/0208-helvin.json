@@ -1,0 +1,31 @@
+{
+  "id": 8760,
+  "name": "Helvin",
+  "slug": "helvin",
+  "sku": "T25048",
+  "summary": "10mm tempered glass covered 5mm Italia white ceramic TC-2401#. metal support frame painted in black matt. stainless steel base in black nickel brushed J16004#. 220x105x75.5",
+  "description": "",
+  "categories": [
+    {
+      "id": 136,
+      "name": "Eetkamertafels",
+      "slug": "eetkamertafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T25048-1200x1200-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T25048-1200x1200-1-500x500.jpg",
+      "alt": "Helvin — Eetkamertafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T25048-1200x1200-2.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T25048-1200x1200-2-500x500.jpg",
+      "alt": "Helvin — Eetkamertafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 85
+}

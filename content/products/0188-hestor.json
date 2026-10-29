@@ -1,0 +1,36 @@
+{
+  "id": 8633,
+  "name": "Hestor",
+  "slug": "hestor",
+  "sku": "C25088 E25088",
+  "summary": "Top in Silver-gray travertine TRS-2402 in matte finish, solid wood and Supporting plate in khaki high-gloss paint (W2504#). 160x87x35 75x62x46",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/E25088-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/E25088-1200x1200-1.jpg",
+      "alt": "Hestor — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/E25088-C25088-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/E25088-C25088-1200x1200-1.jpg",
+      "alt": "Hestor — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/C25088-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/C25088-1200x1200-1.jpg",
+      "alt": "Hestor — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 106
+}

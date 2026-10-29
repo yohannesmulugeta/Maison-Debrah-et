@@ -1,0 +1,36 @@
+{
+  "id": 8212,
+  "name": "Danira",
+  "slug": "danira",
+  "sku": "CS24248",
+  "summary": "Danira is composed with striking balance, uniting the radiance of brass with the quiet strength of silvery grey travertine marble. The central top and legs glow in a metallic lacquer finish, while the flanking marble panels offer a soft matte surface alive with natural veining. Matte black connectors refine the composition, introducing depth and definition. The result is a piece of architectural elegance where contrast becomes harmony.",
+  "description": "",
+  "categories": [
+    {
+      "id": 138,
+      "name": "Consoletafels",
+      "slug": "consoletafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/CS24248-3.jpg",
+      "thumbnail": "/media/2025/08/CS24248-3.jpg",
+      "alt": "Danira — Consoletafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/CS24248-1.jpg",
+      "thumbnail": "/media/2025/08/CS24248-1.jpg",
+      "alt": "Danira — Consoletafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/CS24248-2.jpg",
+      "thumbnail": "/media/2025/08/CS24248-2.jpg",
+      "alt": "Danira — Consoletafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 174
+}

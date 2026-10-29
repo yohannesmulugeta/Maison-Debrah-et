@@ -1,0 +1,26 @@
+{
+  "id": 8852,
+  "name": "Corven",
+  "slug": "corven",
+  "sku": "CM15873",
+  "summary": "5mm mirror, connection parts in white color, MDF in W110702# matte beige color, stainless steel frame plating in bronze brushed WJ-04. 89x87x5",
+  "description": "",
+  "categories": [
+    {
+      "id": 239,
+      "name": "Spiegels",
+      "slug": "spiegels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/CM15873-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/CM15873-1200x1200-1.jpg",
+      "alt": "Corven — Spiegels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 63
+}

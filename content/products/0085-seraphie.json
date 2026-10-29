@@ -1,0 +1,36 @@
+{
+  "id": 8013,
+  "name": "Seraphie",
+  "slug": "seraphie",
+  "sku": "DC14803",
+  "summary": "Seraphie blends timeless craftsmanship with contemporary elegance. Wrapped in recycled leather, the seat and backrest are outlined with refined edging that enhances its clean, architectural form. A brushed metal frame, offered in warm brass or sleek matte nickel, grounds the design with subtle strength. Minimal yet luxurious, it brings effortless elegance to spaces where design and comfort coexist. 62x60x81.5",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC148031.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC148031-500x500.jpg",
+      "alt": "Seraphie — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC148032.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC148032-500x500.jpg",
+      "alt": "Seraphie — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC148033.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC148033-500x500.jpg",
+      "alt": "Seraphie — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 218
+}

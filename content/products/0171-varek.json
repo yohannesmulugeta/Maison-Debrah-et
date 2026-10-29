@@ -1,0 +1,41 @@
+{
+  "id": 8555,
+  "name": "Varek",
+  "slug": "varek",
+  "sku": "E25081",
+  "summary": "Varek pairs a matte silver grey travertine top with a calm, stone born sophistication that feels naturally elevated. The legs are wrapped in dark gray elm veneer, adding a refined wood texture that grounds the piece with modern warmth. The contrast of cool stone and rich veneer gives it a composed, high tier presence. Top in Silver-grey travertine in matte finish, Legs with dark grey elm veneer. 45x40x50",
+  "description": "",
+  "categories": [
+    {
+      "id": 243,
+      "name": "Pilaren",
+      "slug": "pilaren"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/E250811.jpg",
+      "thumbnail": "/media/2025/12/E250811.jpg",
+      "alt": "Varek — Pilaren by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/E250812.jpg",
+      "thumbnail": "/media/2025/12/E250812.jpg",
+      "alt": "Varek — Pilaren by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/E250813.jpg",
+      "thumbnail": "/media/2025/12/E250813.jpg",
+      "alt": "Varek — Pilaren by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/E250814.jpg",
+      "thumbnail": "/media/2025/12/E250814.jpg",
+      "alt": "Varek — Pilaren by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 120
+}

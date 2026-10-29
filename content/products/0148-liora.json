@@ -1,0 +1,36 @@
+{
+  "id": 8365,
+  "name": "Liora",
+  "slug": "liora",
+  "sku": "C23122-S",
+  "summary": "Liora is topped with matte silver grey travertine marble, giving the piece a calm, stone sculptural elegance with natural depth. Below, the bottom panel and fiberglass base are finished in a sophisticated two tone grey palette, creating a layered, modern contrast. The combination delivers a grounded, architectural presence that feels refined without drifting into theatrics. Sliver grey travertine marble top(matte), bottom panel and fiberglass base paint two tone grey. 110x110x40",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/C23122-SE23122-S-1.jpg",
+      "thumbnail": "/media/2025/12/C23122-SE23122-S-1.jpg",
+      "alt": "Liora — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/C23122-S（2）.jpg",
+      "thumbnail": "/media/2025/12/C23122-S（2）.jpg",
+      "alt": "Liora — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/C23122-S（1）.jpg",
+      "thumbnail": "/media/2025/12/C23122-S（1）.jpg",
+      "alt": "Liora — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 148
+}

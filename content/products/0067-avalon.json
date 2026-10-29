@@ -1,0 +1,36 @@
+{
+  "id": 7905,
+  "name": "avalon",
+  "slug": "avalon",
+  "sku": "RC25115",
+  "summary": "Avalon showcases a sculptural silhouette entirely upholstered in soft textile, elevated by slender stainless steel legs finished in a warm brushed copper. The harmony of tactile richness and metallic precision offers a contemporary expression of refined elegance. 69x93x68",
+  "description": "",
+  "categories": [
+    {
+      "id": 134,
+      "name": "Fauteuils &amp; statement stoelen",
+      "slug": "fauteuils-statement-stoelen"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/RC251151.jpg",
+      "thumbnail": "/media/2025/08/RC251151.jpg",
+      "alt": "avalon — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/RC251152.jpg",
+      "thumbnail": "/media/2025/08/RC251152.jpg",
+      "alt": "avalon — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/RC251153.jpg",
+      "thumbnail": "/media/2025/08/RC251153.jpg",
+      "alt": "avalon — Fauteuils &amp; statement stoelen by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 238
+}

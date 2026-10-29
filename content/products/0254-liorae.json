@@ -1,0 +1,52 @@
+{
+  "id": 8248,
+  "name": "Liorae",
+  "slug": "liorae",
+  "sku": "",
+  "summary": "Liorae is crafted from precision-formed acrylic and stainless steel, combining clarity with strength in a pendant light of modern elegance. Its luminous body and polished accents create a balance of transparency and refinement, a design that glows with understated luxury. D800mm / D600mm Acrylic+Stainless Steel",
+  "description": "",
+  "categories": [
+    {
+      "id": 144,
+      "name": "Hanglampen &amp; kroonluchters",
+      "slug": "hanglampen-kroonluchters"
+    },
+    {
+      "id": 241,
+      "name": "Pendant lamps",
+      "slug": "pendant-lamps"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/09/DB-DS202500741-1.jpg",
+      "thumbnail": "/media/2025/09/DB-DS202500741-1.jpg",
+      "alt": "Liorae — Hanglampen &amp; kroonluchters by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/09/DB-DS202500741-2.jpg",
+      "thumbnail": "/media/2025/09/DB-DS202500741-2.jpg",
+      "alt": "Liorae — Hanglampen &amp; kroonluchters by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [
+    {
+      "name": "Dimensions",
+      "terms": [
+        {
+          "id": 0,
+          "name": "D600mm",
+          "slug": "D600mm"
+        },
+        {
+          "id": 0,
+          "name": "D800mm",
+          "slug": "D800mm"
+        }
+      ]
+    }
+  ],
+  "price": null,
+  "shopOrder": 166
+}

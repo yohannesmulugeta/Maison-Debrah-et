@@ -1,0 +1,26 @@
+{
+  "id": 8892,
+  "name": "Caldor",
+  "slug": "caldor",
+  "sku": "E22304",
+  "summary": "Rose gold marble top, bottom plate painted matte W7006-1# color, stainless steel frame in brushed brass WJ-03. 50×50",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/E22304-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/E22304-1200x1200-1.jpg",
+      "alt": "Caldor — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 55
+}

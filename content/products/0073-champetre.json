@@ -1,0 +1,31 @@
+{
+  "id": 7969,
+  "name": "Champetre",
+  "slug": "champetre",
+  "sku": "BN14803",
+  "summary": "Champetre is elegance in its most understated form. A surface of softly frosted glass rests above a cabinet in a serene matte finish. Brass brushed steel legs lift the piece with quiet grace, creating a presence that feels both grounded and elevated. Champetre is a whisper of refinement in any space. 50x40x48",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN148032-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN148032-1-500x445.jpg",
+      "alt": "Champetre — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN148031-2.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN148031-2-500x396.jpg",
+      "alt": "Champetre — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 230
+}

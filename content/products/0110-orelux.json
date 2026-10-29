@@ -1,0 +1,41 @@
+{
+  "id": 8125,
+  "name": "Orelux",
+  "slug": "orelux",
+  "sku": "T24073",
+  "summary": "Ovelux is crowned with a blue art glass top, its watery surface alive with depth and shifting reflections. The form is supported by an iron frame finished in two-toned grey, a detail that brings contrast and contemporary character. Elegant and distinctive, it stands as a modern statement piece defined by light, color, and refined design. 300x120x76",
+  "description": "",
+  "categories": [
+    {
+      "id": 136,
+      "name": "Eetkamertafels",
+      "slug": "eetkamertafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T240731.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T240731-500x500.jpg",
+      "alt": "Orelux — Eetkamertafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T240732.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T240732-500x500.jpg",
+      "alt": "Orelux — Eetkamertafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T240733.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T240733-500x500.jpg",
+      "alt": "Orelux — Eetkamertafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T240734.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/T240734-500x500.jpg",
+      "alt": "Orelux — Eetkamertafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 193
+}

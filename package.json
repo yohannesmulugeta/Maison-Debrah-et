@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
+    "predev": "npm run validate:content",
     "dev": "vite",
     "typecheck": "tsc -b",
     "lint": "oxlint",

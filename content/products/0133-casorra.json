@@ -1,0 +1,41 @@
+{
+  "id": 8237,
+  "name": "Casorra",
+  "slug": "casorra",
+  "sku": "B23005",
+  "summary": "Casorra is composed with a fabric body that lends softness and texture, balanced by a stainless steel frame in brushed brass. The interplay between tactile warmth and metallic sheen gives the piece both comfort and presence, creating a modern statement of understated luxury. 239x237x106(180×200)",
+  "description": "",
+  "categories": [
+    {
+      "id": 139,
+      "name": "Bedden &amp; hoofdborden",
+      "slug": "bedden-hoofdborden"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/B230052.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/B230052-500x500.jpg",
+      "alt": "Casorra — Bedden &amp; hoofdborden by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/B230051.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/B230051-500x500.jpg",
+      "alt": "Casorra — Bedden &amp; hoofdborden by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/B230053.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/B230053-500x500.jpg",
+      "alt": "Casorra — Bedden &amp; hoofdborden by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/B230054.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/B230054-500x500.jpg",
+      "alt": "Casorra — Bedden &amp; hoofdborden by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 169
+}

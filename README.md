@@ -30,10 +30,11 @@ Staff can bookmark the [content editor entrance](https://yohannesmulugeta.github
 
 This repository is configured for [Pages CMS](https://pagescms.org/). After the `.pages.yml` configuration is on GitHub `main`, sign in at [app.pagescms.org](https://app.pagescms.org/) with GitHub, install the Pages CMS GitHub App for this repository, and select the `main` branch. The editor provides **Products** and **Homepage and contact**. Saving a change commits the JSON file to GitHub; the existing Pages workflow then validates, builds, and deploys the site. Check the workflow result before treating an edit as published.
 
-- Products are kept in `public/data/products.json` as one list. Give new products a unique numeric ID and slug; keep existing IDs and slugs to preserve page links. Category IDs must match `src/data/categories.json`.
+- Products are edited as individual JSON files in `content/products`. Pages CMS shows a searchable list. Give new products a unique numeric ID and slug; keep existing IDs and slugs to preserve page links. Category IDs must match `src/data/categories.json`.
+- `npm.cmd run validate:content` checks the records and generates `public/data/products.json` for the site. The generated file is not committed. `npm.cmd run dev` and the production builds run this step automatically.
 - Upload new product photos in the CMS Media area (`public/media`). Copy the resulting `/media/...` path into both image URL and thumbnail URL; existing local and external image URLs remain unchanged.
 - Homepage copy and Ethiopia contact details live in `src/data/site.json`. The CMS does not edit layout, other page copy, or `index.html` metadata.
-- Because all products share one JSON file, simultaneous product edits can conflict. Coordinate edits and review Git history if a save needs to be reverted.
+- Product edits change only the selected product file. Review Git history if a save needs to be reverted.
 
 ## What is implemented
 

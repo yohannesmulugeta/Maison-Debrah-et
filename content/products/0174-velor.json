@@ -1,0 +1,41 @@
+{
+  "id": 8581,
+  "name": "Velor",
+  "slug": "velor",
+  "sku": "RD25113",
+  "summary": "Velor combines matte grey powder coated metal with a central panel of matte silver travertine, creating a striking balance between cool structural lines and soft stone texture. The pairing gives the piece a modern, sculptural refinement with a quietly upscale character. The metal part in matt grey powder ,middle with silver travertine marble in matt 50x28x(263-293)",
+  "description": "",
+  "categories": [
+    {
+      "id": 141,
+      "name": "Boekenkasten &amp; planken",
+      "slug": "boekenkasten-planken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/09/RD251131.jpg",
+      "thumbnail": "/media/2026/09/RD251131.jpg",
+      "alt": "Velor — Boekenkasten &amp; planken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/RD251132.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/RD251132-500x500.jpg",
+      "alt": "Velor — Boekenkasten &amp; planken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/RD251134.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/RD251134-500x500.jpg",
+      "alt": "Velor — Boekenkasten &amp; planken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/RD251133.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/RD251133-500x500.jpg",
+      "alt": "Velor — Boekenkasten &amp; planken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 116
+}

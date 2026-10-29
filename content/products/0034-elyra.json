@@ -1,0 +1,41 @@
+{
+  "id": 8402,
+  "name": "Elyra",
+  "slug": "elyra",
+  "sku": "CM23406",
+  "summary": "Elyra features a polished mirror with clean, luminous clarity, set against a grey painted back panel that adds a cool, refined depth. Brass painted metal accents bring a warm, upscale contrast, giving the piece a sleek, contemporary presence with real sophistication. 5mm mirror, mirror back panel in grey paint,metal part in brass painting . 120x84x4",
+  "description": "",
+  "categories": [
+    {
+      "id": 239,
+      "name": "Spiegels",
+      "slug": "spiegels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/CM23406.jpg",
+      "thumbnail": "/media/2025/12/CM23406.jpg",
+      "alt": "Elyra — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM234061.jpg",
+      "thumbnail": "/media/2025/12/CM234061.jpg",
+      "alt": "Elyra — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM234062.jpg",
+      "thumbnail": "/media/2025/12/CM234062.jpg",
+      "alt": "Elyra — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM234063.jpg",
+      "thumbnail": "/media/2025/12/CM234063.jpg",
+      "alt": "Elyra — Spiegels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 59500,
+  "shopOrder": 32
+}

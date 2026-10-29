@@ -1,0 +1,41 @@
+{
+  "id": 8014,
+  "name": "Emaris",
+  "slug": "emaris",
+  "sku": "DC16053",
+  "summary": "Emaris is fully upholstered in rich coffee-toned recycled leather, carrying a quiet strength and timeless presence. The surface is smooth yet characterful, with deep tones that invite touch and add warmth to any interior. Clean lines and sculptural form give it a modern edge, while the craftsmanship speaks of enduring elegance. DC16053",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC160531.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC160531-500x500.jpg",
+      "alt": "Emaris — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC160532.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC160532-500x500.jpg",
+      "alt": "Emaris — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC160534.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC160534-500x500.jpg",
+      "alt": "Emaris — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC160533.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC160533-500x500.jpg",
+      "alt": "Emaris — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 217
+}

@@ -1,0 +1,62 @@
+{
+  "id": 8292,
+  "name": "Fioris",
+  "slug": "fioris",
+  "sku": "0",
+  "summary": "Fioris is a sculptural light, its rounded form blooming with luminous clarity. A balance of strength and delicacy, it evokes the quiet beauty of a flower in eternal radiance—modern, sculptural, and refined. D1200mm / D900mm / D600mm Glass+Steel",
+  "description": "",
+  "categories": [
+    {
+      "id": 144,
+      "name": "Hanglampen &amp; kroonluchters",
+      "slug": "hanglampen-kroonluchters"
+    },
+    {
+      "id": 241,
+      "name": "Pendant lamps",
+      "slug": "pendant-lamps"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/09/DBR24120501-L-R4-3D.jpg",
+      "thumbnail": "/media/2025/09/DBR24120501-L-R4-3D.jpg",
+      "alt": "Fioris — Hanglampen &amp; kroonluchters by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/09/DBR24120501-M-R4-3D.jpg",
+      "thumbnail": "/media/2025/09/DBR24120501-M-R4-3D.jpg",
+      "alt": "Fioris — Hanglampen &amp; kroonluchters by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/09/DBR24120501-S-R4-3D.jpg",
+      "thumbnail": "/media/2025/09/DBR24120501-S-R4-3D.jpg",
+      "alt": "Fioris — Hanglampen &amp; kroonluchters by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [
+    {
+      "name": "Dimensions",
+      "terms": [
+        {
+          "id": 0,
+          "name": "D1200mm",
+          "slug": "D1200mm"
+        },
+        {
+          "id": 0,
+          "name": "D600mm",
+          "slug": "D600mm"
+        },
+        {
+          "id": 0,
+          "name": "D900mm",
+          "slug": "D900mm"
+        }
+      ]
+    }
+  ],
+  "price": null,
+  "shopOrder": 163
+}

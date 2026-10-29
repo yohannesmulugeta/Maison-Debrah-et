@@ -1,0 +1,36 @@
+{
+  "id": 7844,
+  "name": "starford",
+  "slug": "starford",
+  "sku": "C24079",
+  "summary": "The Starford coffee table features a tiered design with a matte silver grey marble top paired with a smaller surface in soft dual-tone lacquer. A matte-finished base completes the composition with quiet balance and modern elegance. 110x110x35",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C240791.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C240791-500x500.jpg",
+      "alt": "starford — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C240792.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C240792-500x500.jpg",
+      "alt": "starford — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C240793.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C240793-500x500.jpg",
+      "alt": "starford — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 260
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8719,
+  "name": "Weslor",
+  "slug": "weslor",
+  "sku": "E25041",
+  "summary": "Maple brown marble top(leathering finish), bottom panel and metal frame all paint two tone grey W2307. 50x44x48",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/E25041-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/02/E25041-1200x1200-2.jpg",
+      "alt": "Weslor — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/E25041-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/02/E25041-1200x1200-3.jpg",
+      "alt": "Weslor — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/E25041-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/E25041-1200x1200-1.jpg",
+      "alt": "Weslor — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 91
+}

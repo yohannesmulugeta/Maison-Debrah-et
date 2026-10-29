@@ -1,0 +1,31 @@
+{
+  "id": 8738,
+  "name": "Zastel",
+  "slug": "zastel",
+  "sku": "T25055B",
+  "summary": "Top and leg B with hardwood covered elm veneer in dark grey W2306#. metal connect plate and leg A with fiberglass painted in dual brass color W2502#. 180x95x76",
+  "description": "",
+  "categories": [
+    {
+      "id": 138,
+      "name": "Consoletafels",
+      "slug": "consoletafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/T25055B-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/02/T25055B-1200x1200-2.jpg",
+      "alt": "Zastel — Consoletafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/T25055B-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/T25055B-1200x1200-1.jpg",
+      "alt": "Zastel — Consoletafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 88
+}

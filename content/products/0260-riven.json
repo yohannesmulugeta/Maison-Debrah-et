@@ -1,0 +1,67 @@
+{
+  "id": 8371,
+  "name": "Riven",
+  "slug": "riven",
+  "sku": "C25044A",
+  "summary": "Riven features a matte Arabescato white marble top with striking natural veining that gives the piece an effortlessly luxurious presence. Below, a matching matte white marble panel reinforces the sculptural feel with a quiet, architectural depth. The metal frame finished in metallic brass paint adds a warm, luminous accent that ties the entire composition together. The result is a table with a clean, modern elegance that feels intentionally high end. Table top Arabescato white marble (matte), bottom marble panel in matte white, metal frame with metallic brass paint. 160x70x37",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25044A.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25044A-500x500.jpg",
+      "alt": "Riven — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25044A（1）.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25044A（1）-500x500.jpg",
+      "alt": "Riven — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25044A（2）.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25044A（2）-500x500.jpg",
+      "alt": "Riven — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25044B-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25044B-1-500x500.jpg",
+      "alt": "Riven — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25044BE25044.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25044BE25044-500x500.jpg",
+      "alt": "Riven — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25044B-4.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25044B-4-500x500.jpg",
+      "alt": "Riven — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [
+    {
+      "name": "Size",
+      "terms": [
+        {
+          "id": 0,
+          "name": "160x70x37",
+          "slug": "160x70x37"
+        },
+        {
+          "id": 0,
+          "name": "φ120x37",
+          "slug": "φ120x37"
+        }
+      ]
+    }
+  ],
+  "price": null,
+  "shopOrder": 142
+}

@@ -1,0 +1,41 @@
+{
+  "id": 8398,
+  "name": "Miron",
+  "slug": "miron",
+  "sku": "CM23097-1111",
+  "summary": "Miron combines clear and grey mirrored panels to create a refined, tonal depth with a subtle, elegant glow. The black backed finish sharpens the contrast, giving the piece a sleek, high end presence that feels intentionally crafted. Clear and grey 5mm mirror, back painted in black color. 122x100x4",
+  "description": "",
+  "categories": [
+    {
+      "id": 239,
+      "name": "Spiegels",
+      "slug": "spiegels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/CM23097-11112.jpg",
+      "thumbnail": "/media/2025/12/CM23097-11112.jpg",
+      "alt": "Miron — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM23097-11114.jpg",
+      "thumbnail": "/media/2025/12/CM23097-11114.jpg",
+      "alt": "Miron — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM23097-11113.jpg",
+      "thumbnail": "/media/2025/12/CM23097-11113.jpg",
+      "alt": "Miron — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM23097-11111.jpg",
+      "thumbnail": "/media/2025/12/CM23097-11111.jpg",
+      "alt": "Miron — Spiegels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 138
+}

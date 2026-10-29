@@ -1,0 +1,47 @@
+{
+  "id": 8128,
+  "name": "ashford",
+  "slug": "ashford",
+  "sku": "C23156",
+  "summary": "The Ashford coffee table unites a grey-blue sapphire marble top with a matte grey lacquered base, balancing cool sophistication with modern simplicity. A brass-painted frame in straight-grain metallic finish lends structure and subtle radiance, completing the form with quiet refinement.",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C23156-0011.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C23156-0011-500x500.jpg",
+      "alt": "ashford — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C23156-0012.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C23156-0012-500x500.jpg",
+      "alt": "ashford — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [
+    {
+      "name": "Dimensions",
+      "terms": [
+        {
+          "id": 0,
+          "name": "140x50x40",
+          "slug": "140x50x40"
+        },
+        {
+          "id": 0,
+          "name": "Φ110x30",
+          "slug": "Φ110x30"
+        }
+      ]
+    }
+  ],
+  "price": null,
+  "shopOrder": 191
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8940,
+  "name": "Wexor",
+  "slug": "wexor",
+  "sku": "ACM20041",
+  "summary": "5mm mirror, stainless steel frame in brass platingWJ-03, backboard paint black matte 100x200x4",
+  "description": "",
+  "categories": [
+    {
+      "id": 239,
+      "name": "Spiegels",
+      "slug": "spiegels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/ACM20041-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/ACM20041-1200x1200-1.jpg",
+      "alt": "Wexor — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/ACM20041-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/ACM20041-1200x1200-2.jpg",
+      "alt": "Wexor — Spiegels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 46
+}

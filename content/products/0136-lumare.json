@@ -1,0 +1,26 @@
+{
+  "id": 8296,
+  "name": "Lumare",
+  "slug": "lumare",
+  "sku": "DB-DS202500729",
+  "summary": "Lumare is a table lamp of quiet radiance, its form uniting strength and softness in perfect harmony. A sculptural base supports a tailored shade that diffuses a warm elegant glow, an object that is both functional light and timeless design. L485*W300*H650mm Alabaster+Steel+Linen Fabric",
+  "description": "",
+  "categories": [
+    {
+      "id": 147,
+      "name": "Tafellampen",
+      "slug": "tafellampen"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/09/DB-DS202500729.jpg",
+      "thumbnail": "/media/2025/09/DB-DS202500729.jpg",
+      "alt": "Lumare — Tafellampen by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 162
+}

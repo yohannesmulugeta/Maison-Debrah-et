@@ -1,0 +1,36 @@
+{
+  "id": 7859,
+  "name": "arc",
+  "slug": "arc",
+  "sku": "E24056B",
+  "summary": "The Arc coffee table pairs dreamy blue marble with a warm tawny glass top, resting on a sculptural fiberglass base in layered grey tones. A fusion of elegance and artistry, designed to stand out quietly.",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/E24056B1.jpg",
+      "thumbnail": "/media/2025/08/E24056B1.jpg",
+      "alt": "arc — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/E24056B2.jpg",
+      "thumbnail": "/media/2025/08/E24056B2.jpg",
+      "alt": "arc — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/E24056B3.jpg",
+      "thumbnail": "/media/2025/08/E24056B3.jpg",
+      "alt": "arc — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 247
+}

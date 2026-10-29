@@ -1,0 +1,26 @@
+{
+  "id": 8653,
+  "name": "Virex",
+  "slug": "virex",
+  "sku": "C25055",
+  "summary": "Top and Solid wood Leg B with dark gray elm veneer (MP-2306#); Supporting Plates and leg A in Vintage brass paint(W2502#) 135x80x38",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/C25055-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/C25055-1200x1200-1.jpg",
+      "alt": "Virex — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 105
+}

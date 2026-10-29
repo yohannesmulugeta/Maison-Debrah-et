@@ -1,0 +1,36 @@
+{
+  "id": 8400,
+  "name": "Zylar",
+  "slug": "zylar",
+  "sku": "CM23164",
+  "summary": "Zylar pairs a silver mirror with a subtle grey tone that reflects against sapphire marble detailing, giving the piece a cool, refined depth. The back panel is finished in grey paint, adding a smooth, elegant backdrop that enriches the overall sophistication of the mirror. 5mm silver mirror, Backboard and hanging board painted with Matte paint, LED Light strip 120x120x4.8",
+  "description": "",
+  "categories": [
+    {
+      "id": 239,
+      "name": "Spiegels",
+      "slug": "spiegels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/CM23164.jpg",
+      "thumbnail": "/media/2025/12/CM23164.jpg",
+      "alt": "Zylar — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM231641.jpg",
+      "thumbnail": "/media/2025/12/CM231641.jpg",
+      "alt": "Zylar — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM231642.jpg",
+      "thumbnail": "/media/2025/12/CM231642.jpg",
+      "alt": "Zylar — Spiegels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 137
+}

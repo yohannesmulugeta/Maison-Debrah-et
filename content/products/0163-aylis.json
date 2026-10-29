@@ -1,0 +1,41 @@
+{
+  "id": 8510,
+  "name": "Aylis",
+  "slug": "aylis",
+  "sku": "CS25046",
+  "summary": "Aylis features an Italian white ceramic top with a crisp, refined surface that gives the piece a clean architectural elegance. The legs are wrapped in light gray elm veneer, adding a soft, natural texture that balances the ceramic’s cool clarity. The combination creates a modern, understated sophistication. top with 5mm Italy white ceramic, the legs cover with light grey elm veneer 140x42x75",
+  "description": "",
+  "categories": [
+    {
+      "id": 138,
+      "name": "Consoletafels",
+      "slug": "consoletafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/CS250461.jpg",
+      "thumbnail": "/media/2025/12/CS250461.jpg",
+      "alt": "Aylis — Consoletafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CS250462.jpg",
+      "thumbnail": "/media/2025/12/CS250462.jpg",
+      "alt": "Aylis — Consoletafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CS250464.jpg",
+      "thumbnail": "/media/2025/12/CS250464.jpg",
+      "alt": "Aylis — Consoletafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/B24088（3）-1.jpg",
+      "thumbnail": "/media/2025/12/B24088（3）-1.jpg",
+      "alt": "Aylis — Consoletafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 128
+}

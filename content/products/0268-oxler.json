@@ -1,0 +1,62 @@
+{
+  "id": 8938,
+  "name": "Oxler",
+  "slug": "oxler",
+  "sku": "SF25306-A3",
+  "summary": "Oxler is a study in confident restraint – a sofa that commands attention not through ornamentation, but through the sheer precision of its form. Its most arresting feature is the seamlessly wrapped frame that sweeps from arm to arm in one unbroken, architectural gesture – thick, bold, and beautifully upholstered from every angle. The deep, cloud-soft seat sits within this sculptural embrace like a quiet luxury waiting to be discovered, while the low, clean profile gives the Oxler a grounded, gallery-worthy presence that works effortlessly in both contemporary and transitional interiors. Upholstered entirely in a sumptuously tactile fabric- its bouclé-like texture adding warmth and visual depth- every surface invites touch as much as admiration. Resting on a refined base with a gleaming champagne gold finish, the Oxler balances architectural boldness with a softness that is entirely its own. A sofa that doesn’t just fill a room- it defines it. A3 – 210 × 42 × 80 cm A4 – 280 x 89 x 70 cm",
+  "description": "",
+  "categories": [
+    {
+      "id": 133,
+      "name": "Banken &amp; hoekbanken",
+      "slug": "banken-hoekbanken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/SF25306-A3-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/SF25306-A3-1200x1200-1.jpg",
+      "alt": "Oxler — Banken &amp; hoekbanken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/SF25306-A4-3.jpg",
+      "thumbnail": "/media/2026/03/SF25306-A4-3.jpg",
+      "alt": "Oxler — Banken &amp; hoekbanken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/SF25306-A4-1.jpg",
+      "thumbnail": "/media/2026/03/SF25306-A4-1.jpg",
+      "alt": "Oxler — Banken &amp; hoekbanken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/SF25306-A4-2.jpg",
+      "thumbnail": "/media/2026/03/SF25306-A4-2.jpg",
+      "alt": "Oxler — Banken &amp; hoekbanken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [
+    {
+      "name": "Sizes",
+      "terms": [
+        {
+          "id": 0,
+          "name": "A1 - 1115 x 890 x 700 mm",
+          "slug": "A1 - 1115 x 890 x 700 mm"
+        },
+        {
+          "id": 0,
+          "name": "A3 - 210 × 42 × 80 cm",
+          "slug": "A3 - 210 × 42 × 80 cm"
+        },
+        {
+          "id": 0,
+          "name": "A4 280 × 89 × 70 cm",
+          "slug": "A4 280 × 89 × 70 cm"
+        }
+      ]
+    }
+  ],
+  "price": null,
+  "shopOrder": 48
+}

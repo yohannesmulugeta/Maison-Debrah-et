@@ -1,0 +1,31 @@
+{
+  "id": 8848,
+  "name": "Gresta",
+  "slug": "gresta",
+  "sku": "BS24238",
+  "summary": "Covered with B-2512#(KS22327-3),stainless steel leg plating in copper brushed WJ-04. 57x54x98",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/BS24238-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/BS24238-1200x1200-1.jpg",
+      "alt": "Gresta — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/BS24238-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/BS24238-1200x1200-2.jpg",
+      "alt": "Gresta — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 66
+}

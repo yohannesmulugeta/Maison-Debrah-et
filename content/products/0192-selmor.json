@@ -1,0 +1,26 @@
+{
+  "id": 8674,
+  "name": "Selmor",
+  "slug": "selmor",
+  "sku": "C25057-001",
+  "summary": "Top with matte Naqiu green marble TRS-2505# , fiberglass top frame and base in Olive Green high-gloss paint W2506#. 80x80x38",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/C25057-001-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/C25057-001-1200x1200-1.jpg",
+      "alt": "Selmor — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 102
+}

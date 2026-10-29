@@ -1,0 +1,36 @@
+{
+  "id": 8717,
+  "name": "Astren",
+  "slug": "astren",
+  "sku": "E25040",
+  "summary": "Naqiu green marble top TRS-2505(with resin), MDF base in Olive green high-gloss paint W2506. 60×48",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/E24040-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/02/E24040-1200x1200-2.jpg",
+      "alt": "Astren — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/E24040-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/E24040-1200x1200-1.jpg",
+      "alt": "Astren — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/E24040-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/02/E24040-1200x1200-3.jpg",
+      "alt": "Astren — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 49500,
+  "shopOrder": 36
+}

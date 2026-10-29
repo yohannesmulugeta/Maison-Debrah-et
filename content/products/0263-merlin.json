@@ -1,0 +1,52 @@
+{
+  "id": 8424,
+  "name": "Merlin",
+  "slug": "merlin",
+  "sku": "CM24235",
+  "summary": "Merlin pairs a clear mirrored surface with a grey painted back panel that gives the reflection a cool, refined depth. A brass metallic frame adds a warm, elegant edge, giving the piece a sleek, high end profile without any unnecessary drama. 5mm mirror, back panel in grey paint, metal frame in brass metallic. 120x120x8 / 90x90x8",
+  "description": "",
+  "categories": [
+    {
+      "id": 239,
+      "name": "Spiegels",
+      "slug": "spiegels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/CM242351.jpg",
+      "thumbnail": "/media/2025/12/CM242351.jpg",
+      "alt": "Merlin — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM24235.jpg",
+      "thumbnail": "/media/2025/12/CM24235.jpg",
+      "alt": "Merlin — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM242352.jpg",
+      "thumbnail": "/media/2025/12/CM242352.jpg",
+      "alt": "Merlin — Spiegels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [
+    {
+      "name": "Sizes",
+      "terms": [
+        {
+          "id": 0,
+          "name": "90x90x8 ‎",
+          "slug": "90x90x8 ‎"
+        },
+        {
+          "id": 0,
+          "name": "85x150x2.5",
+          "slug": "85x150x2.5"
+        }
+      ]
+    }
+  ],
+  "price": null,
+  "shopOrder": 43
+}

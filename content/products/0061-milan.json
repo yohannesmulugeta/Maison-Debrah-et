@@ -1,0 +1,26 @@
+{
+  "id": 7881,
+  "name": "milan",
+  "slug": "milan",
+  "sku": "",
+  "summary": "The Milan coffee table is available in two refined combinations. One features a Galaxy marble top with a matte black base, paired with metal legs wrapped in rich faux leather and accented by grey mirrored details. The other offers a bold Romanti marble surface in black and grey, echoing the same elevated leg finish. Both versions balance texture and tone with sculptural precision. 110x110x36",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C20211E20211-1-scaled-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C20211E20211-1-scaled-1-500x454.jpg",
+      "alt": "milan — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 245
+}

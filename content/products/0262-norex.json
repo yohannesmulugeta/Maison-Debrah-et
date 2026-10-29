@@ -1,0 +1,72 @@
+{
+  "id": 8393,
+  "name": "Norex",
+  "slug": "norex",
+  "sku": "100&#215;35",
+  "summary": "Top is 10mm water ripple art glass (ultra white glass) ; Steel Leg in bronze paint with straight grain. Norex showcases a water ripple art glass top in ultra white glass, giving the surface a fluid, luminous texture that feels striking and refined. The steel legs, finished in bronze with a clean straight grain, add a warm, structured foundation that grounds the design. Together, the glass and bronze create a modern coffee table with a crisp, upscale presence that looks intentional and beautifully crafted. 100×35 / 110x110x35 / 80x80x35",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C250821.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C250821-500x500.jpg",
+      "alt": "Norex — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25082E25082-1-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25082E25082-1-1-500x500.jpg",
+      "alt": "Norex — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C250824.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C250824-500x500.jpg",
+      "alt": "Norex — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C250822.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C250822-500x500.jpg",
+      "alt": "Norex — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25083AC25083B.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25083AC25083B-500x500.jpg",
+      "alt": "Norex — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25083A1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C25083A1-500x500.jpg",
+      "alt": "Norex — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [
+    {
+      "name": "Sizes",
+      "terms": [
+        {
+          "id": 0,
+          "name": "100x35",
+          "slug": "100x35"
+        },
+        {
+          "id": 0,
+          "name": "110x110x35",
+          "slug": "110x110x35"
+        },
+        {
+          "id": 0,
+          "name": "80x80x35",
+          "slug": "80x80x35"
+        }
+      ]
+    }
+  ],
+  "price": null,
+  "shopOrder": 139
+}

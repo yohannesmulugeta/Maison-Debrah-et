@@ -1,0 +1,36 @@
+{
+  "id": 8247,
+  "name": "Evrae",
+  "slug": "evrae",
+  "sku": "DB-DS202500731",
+  "summary": "Evrae is crafted in a radiant gold finish, its perfectly round form casting a warm, luminous glow. Designed as a pendant light, it embodies purity of shape and opulence of tone, bringing refined elegance to any space. D600*H70mm Alabaster+Steel",
+  "description": "",
+  "categories": [
+    {
+      "id": 144,
+      "name": "Hanglampen &amp; kroonluchters",
+      "slug": "hanglampen-kroonluchters"
+    },
+    {
+      "id": 241,
+      "name": "Pendant lamps",
+      "slug": "pendant-lamps"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/09/DB-DS202500731-2.jpg",
+      "thumbnail": "/media/2025/09/DB-DS202500731-2.jpg",
+      "alt": "Evrae — Hanglampen &amp; kroonluchters by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/09/DB-DS202500731-1.jpg",
+      "thumbnail": "/media/2025/09/DB-DS202500731-1.jpg",
+      "alt": "Evrae — Hanglampen &amp; kroonluchters by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 167
+}

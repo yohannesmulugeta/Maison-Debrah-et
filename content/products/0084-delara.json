@@ -1,0 +1,36 @@
+{
+  "id": 8012,
+  "name": "Delara",
+  "slug": "delara",
+  "sku": "DC14802",
+  "summary": "Delara embodies European elegance, speaking in refined whispers of luxury. A seat and backrest wrapped in recycled leather with edges finished to perfection create a sculptural and inviting silhouette. Resting on a brushed metal frame in warm brass tones or cool matte nickel, it offers a harmony of refinement and comfort. Designed for interiors that value both beauty and substance, it feels equally at home in a Parisian apartment, a Milanese design studio, or a contemporary private residence. 46.5x58x81",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC148021.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC148021-500x500.jpg",
+      "alt": "Delara — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC148022.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC148022-500x500.jpg",
+      "alt": "Delara — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC148023.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC148023-500x500.jpg",
+      "alt": "Delara — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 219
+}

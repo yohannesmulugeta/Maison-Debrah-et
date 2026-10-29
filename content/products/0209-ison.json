@@ -1,0 +1,41 @@
+{
+  "id": 8778,
+  "name": "Ison",
+  "slug": "ison",
+  "sku": "",
+  "summary": "the body cover with elm veneer in light gray matt MP-2307# back panels cover with 5mm silver mirror. with LED light strip.the stainless steel door hinge plating in brass brushed color WJ-03#, the base paint in brass metalic W2303 #. 113x51x148",
+  "description": "",
+  "categories": [
+    {
+      "id": 141,
+      "name": "Boekenkasten &amp; planken",
+      "slug": "boekenkasten-planken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/CB25072-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/CB25072-1200x1200-1.jpg",
+      "alt": "Ison — Boekenkasten &amp; planken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/CB25072-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/CB25072-1200x1200-2.jpg",
+      "alt": "Ison — Boekenkasten &amp; planken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/CB25072-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/03/CB25072-1200x1200-3.jpg",
+      "alt": "Ison — Boekenkasten &amp; planken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/CB25072-1200x1200-4.jpg",
+      "thumbnail": "/media/2026/03/CB25072-1200x1200-4.jpg",
+      "alt": "Ison — Boekenkasten &amp; planken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 84
+}

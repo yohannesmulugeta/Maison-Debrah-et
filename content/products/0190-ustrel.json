@@ -1,0 +1,31 @@
+{
+  "id": 8654,
+  "name": "Ustrel",
+  "slug": "ustrel",
+  "sku": "E25057",
+  "summary": "Top with matte Naqiu green marble TRS-2505# , fiberglass top frame and base in Olive Green high-gloss paint W2506#. 60x60x50",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/E25057-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/E25057-1200x1200-1.jpg",
+      "alt": "Ustrel — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/E25057-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/02/E25057-1200x1200-2.jpg",
+      "alt": "Ustrel — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 104
+}

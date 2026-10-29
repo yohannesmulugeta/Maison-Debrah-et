@@ -1,0 +1,67 @@
+{
+  "id": 7838,
+  "name": "redvale",
+  "slug": "redvale",
+  "sku": "",
+  "summary": "The Redvale coffee table features a striking sapphire marble top with rich natural veining that draws the eye. A smooth dual-grey lacquered frame and sculpted base add depth and contrast, making it a bold and timeless centrepiece. 120x120x30 / Φ110×30",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/C24054A1.jpg",
+      "thumbnail": "/media/2025/08/C24054A1.jpg",
+      "alt": "redvale — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/C24054A2.jpg",
+      "thumbnail": "/media/2025/08/C24054A2.jpg",
+      "alt": "redvale — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/C24054A3.jpg",
+      "thumbnail": "/media/2025/08/C24054A3.jpg",
+      "alt": "redvale — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/C24054B1.jpg",
+      "thumbnail": "/media/2025/08/C24054B1.jpg",
+      "alt": "redvale — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/C24054B2.jpg",
+      "thumbnail": "/media/2025/08/C24054B2.jpg",
+      "alt": "redvale — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/C24054B3.jpg",
+      "thumbnail": "/media/2025/08/C24054B3.jpg",
+      "alt": "redvale — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [
+    {
+      "name": "Dimensions",
+      "terms": [
+        {
+          "id": 0,
+          "name": "120x120x30",
+          "slug": "120x120x30"
+        },
+        {
+          "id": 0,
+          "name": "Φ110x30",
+          "slug": "Φ110x30"
+        }
+      ]
+    }
+  ],
+  "price": null,
+  "shopOrder": 262
+}

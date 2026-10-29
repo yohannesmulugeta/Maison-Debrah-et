@@ -33,7 +33,7 @@ The draft includes a homepage, catalogue, category pages, product pages, About, 
 - `src/App.tsx`: layout, pages, navigation, catalogue search and product detail flow.
 - `src/styles.css`: responsive visual system based on the reference direction.
 - `src/data/categories.json`, `src/data/catalog.ts`: captured categories and English navigation labels.
-- `public/data/products.json`: static snapshot of reference product names, descriptions, categories and image links. No Dutch prices are included.
+- `content/products/*.json`: editable product records. The build validates them and generates `public/data/products.json` for the React site; existing reference prices remain where provided.
 - `public/images/`: logo and editorial images from the reference/public site for local review.
 - `public/media/`: reused public product images, copied only when filenames matched staging product images.
 - `index.html`: metadata and draft noindex setting.

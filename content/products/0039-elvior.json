@@ -1,0 +1,41 @@
+{
+  "id": 8698,
+  "name": "Elvior",
+  "slug": "elvior",
+  "sku": "Y-E25055A",
+  "summary": "Top and fiberglass leg in Vintage brass paint (W2502#) 55×46.5×47.5",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/Y-E25055A-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/Y-E25055A-1200x1200-1.jpg",
+      "alt": "Elvior — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/Y-E25055A-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/02/Y-E25055A-1200x1200-2.jpg",
+      "alt": "Elvior — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/Y-E25055A-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/02/Y-E25055A-1200x1200-3.jpg",
+      "alt": "Elvior — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/Y-E25055A-1200x1200-4.jpg",
+      "thumbnail": "/media/2026/02/Y-E25055A-1200x1200-4.jpg",
+      "alt": "Elvior — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 49500,
+  "shopOrder": 37
+}

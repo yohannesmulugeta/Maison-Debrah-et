@@ -1,0 +1,41 @@
+{
+  "id": 7886,
+  "name": "overture",
+  "slug": "overture",
+  "sku": "RC24079",
+  "summary": "Overture pairs sculptural refinement with layered textures. The seater is wrapped in a rich textile that offers tactile warmth, while the armrests feature a sleek metal frame encased in smooth hard leather. A brushed nickel stainless steel back detail provides an elegant, contemporary contrast that completes the silhouette with grace. 87x73x70",
+  "description": "",
+  "categories": [
+    {
+      "id": 134,
+      "name": "Fauteuils &amp; statement stoelen",
+      "slug": "fauteuils-statement-stoelen"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/RC240791.jpg",
+      "thumbnail": "/media/2025/08/RC240791.jpg",
+      "alt": "overture — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/RC240793.jpg",
+      "thumbnail": "/media/2025/08/RC240793.jpg",
+      "alt": "overture — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/RC240792.jpg",
+      "thumbnail": "/media/2025/08/RC240792.jpg",
+      "alt": "overture — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/RC240794.jpg",
+      "thumbnail": "/media/2025/08/RC240794.jpg",
+      "alt": "overture — Fauteuils &amp; statement stoelen by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 241
+}

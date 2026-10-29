@@ -1,0 +1,31 @@
+{
+  "id": 8716,
+  "name": "Belvar",
+  "slug": "belvar",
+  "sku": "v",
+  "summary": "Metal parts in TWO-TONE paint W2307, solid wood leg with light grey elm veneer MP-2307. 40×48",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/E25091-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/02/E25091-1200x1200-2.jpg",
+      "alt": "Belvar — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/E25091-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/E25091-1200x1200-1.jpg",
+      "alt": "Belvar — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 93
+}

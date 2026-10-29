@@ -1,0 +1,36 @@
+{
+  "id": 7990,
+  "name": "Romira",
+  "slug": "romira",
+  "sku": "ADC20046",
+  "summary": "Romira is crafted entirely in your choice of premium materials — the supple richness of CP series genuine leather, the soft allure of AB velvet, or the smooth sophistication of FP leather. Each finish transforms Romira into a distinct expression of elegance. 55x57x78",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/ADC200461.jpg",
+      "thumbnail": "/media/2025/08/ADC200461.jpg",
+      "alt": "Romira — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/ADC200462.jpg",
+      "thumbnail": "/media/2025/08/ADC200462.jpg",
+      "alt": "Romira — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/ADC200463.jpg",
+      "thumbnail": "/media/2025/08/ADC200463.jpg",
+      "alt": "Romira — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 224
+}

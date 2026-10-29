@@ -1,0 +1,41 @@
+{
+  "id": 8509,
+  "name": "Cyrin",
+  "slug": "cyrin",
+  "sku": "CS24056",
+  "summary": "Cyrin is defined by a Dream Blue marble top in a leathered finish, giving the surface a deep, tactile sophistication with natural movement. The metal decorative piece and base are coated in a refined grey powder finish, adding a calm, modern contrast that complements the richness of the stone. The overall look is polished, contemporary and unmistakably high end. Top with dream blue marble (leather touch), the metal decorative piece and base in grey powder. 160x42x76",
+  "description": "",
+  "categories": [
+    {
+      "id": 138,
+      "name": "Consoletafels",
+      "slug": "consoletafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/CS24056.jpg",
+      "thumbnail": "/media/2025/12/CS24056.jpg",
+      "alt": "Cyrin — Consoletafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CS240561.jpg",
+      "thumbnail": "/media/2025/12/CS240561.jpg",
+      "alt": "Cyrin — Consoletafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CS240562.jpg",
+      "thumbnail": "/media/2025/12/CS240562.jpg",
+      "alt": "Cyrin — Consoletafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CS240563.jpg",
+      "thumbnail": "/media/2025/12/CS240563.jpg",
+      "alt": "Cyrin — Consoletafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 129
+}

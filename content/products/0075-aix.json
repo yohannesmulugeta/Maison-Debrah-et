@@ -1,0 +1,36 @@
+{
+  "id": 7971,
+  "name": "Aix",
+  "slug": "aix",
+  "sku": "BN23185",
+  "summary": "Aix captures the essence of refined design. Its Caledonia marble surface, alive with intricate veining, rests upon a body wrapped in rich veneer. A base in soft grey anchors the form, while brushed brass legs add a touch of golden warmth. A composition of balance and timeless grace. 60x42x50",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN23185-1-2.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN23185-1-2-500x500.jpg",
+      "alt": "Aix — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN23185-4-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN23185-4-1-500x500.jpg",
+      "alt": "Aix — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN23185-2-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BN23185-2-1-500x500.jpg",
+      "alt": "Aix — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 228
+}

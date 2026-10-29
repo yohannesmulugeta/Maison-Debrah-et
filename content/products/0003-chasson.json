@@ -1,0 +1,36 @@
+{
+  "id": 8126,
+  "name": "Chasson",
+  "slug": "chasson",
+  "sku": "T24067",
+  "summary": "Chasson is crafted with an oak veneer top in a soft matte finish, revealing the natural beauty and depth of the wood. The design is supported by an iron base in a brushed brass tone, its straight lines adding strength and luminous warmth. With its clean proportions and timeless materials, it brings a quiet sophistication to contemporary interiors. 240x110x76",
+  "description": "",
+  "categories": [
+    {
+      "id": 136,
+      "name": "Eetkamertafels",
+      "slug": "eetkamertafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/T240671.jpg",
+      "thumbnail": "/media/2025/08/T240671.jpg",
+      "alt": "Chasson — Eetkamertafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/T240672.jpg",
+      "thumbnail": "/media/2025/08/T240672.jpg",
+      "alt": "Chasson — Eetkamertafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/T240673.jpg",
+      "thumbnail": "/media/2025/08/T240673.jpg",
+      "alt": "Chasson — Eetkamertafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 249500,
+  "shopOrder": 4
+}

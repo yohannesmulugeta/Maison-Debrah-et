@@ -1,0 +1,41 @@
+{
+  "id": 8532,
+  "name": "Solan",
+  "slug": "solan",
+  "sku": "E23122-S",
+  "summary": "Solan carries a matte silver grey travertine top with a calm, stone born elegance that feels naturally refined. The bottom panel and fiberglass base are finished in two tone grey, giving the piece a layered, architectural depth that sets it apart. The combination reads sophisticated, modern and confidently luxurious without repeating anyone else’s style. Sliver grey travertine marble top(matte), bottom panel and fiberglass base paint two tone grey. 52x52x51",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/E23122-S.jpg",
+      "thumbnail": "/media/2025/12/E23122-S.jpg",
+      "alt": "Solan — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/C23122-SE23122-S-2.jpg",
+      "thumbnail": "/media/2025/12/C23122-SE23122-S-2.jpg",
+      "alt": "Solan — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/E23122-S（2）.jpg",
+      "thumbnail": "/media/2025/12/E23122-S（2）.jpg",
+      "alt": "Solan — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/E23122-S（1）.jpg",
+      "thumbnail": "/media/2025/12/E23122-S（1）.jpg",
+      "alt": "Solan — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 124
+}

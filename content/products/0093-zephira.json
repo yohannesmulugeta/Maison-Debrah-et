@@ -1,0 +1,36 @@
+{
+  "id": 8053,
+  "name": "Zephira",
+  "slug": "zephira",
+  "sku": "DC24039",
+  "summary": "Zephira features a choice of smooth imitation leather or richly textured fabric, each crafted to express a different facet of luxury. Its fully upholstered form flows seamlessly, creating a silhouette that is both sculptural and refined. Clean lines highlight the elegance of its proportions, while the tailored finish lends depth, character, and quiet sophistication. Designed with timeless grace, it elevates any interior with an effortless sense of prestige. 58x60x79",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/DC240391-1.jpg",
+      "thumbnail": "/media/2025/08/DC240391-1.jpg",
+      "alt": "Zephira — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/DC240392.jpg",
+      "thumbnail": "/media/2025/08/DC240392.jpg",
+      "alt": "Zephira — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/DC240393.jpg",
+      "thumbnail": "/media/2025/08/DC240393.jpg",
+      "alt": "Zephira — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 210
+}

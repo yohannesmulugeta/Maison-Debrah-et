@@ -1,7 +1,8 @@
-import { readFileSync } from 'node:fs'
+import { mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs'
 
 const readJson = (path) => JSON.parse(readFileSync(new URL(path, import.meta.url), 'utf8'))
-const products = readJson('../public/data/products.json')
+const productFiles = readdirSync(new URL('../content/products/', import.meta.url)).filter((file) => file.endsWith('.json')).sort()
+const products = productFiles.map((file) => readJson(`../content/products/${file}`))
 const categories = readJson('../src/data/categories.json')
 const site = readJson('../src/data/site.json')
 const categoryIds = new Set(categories.map(({ id }) => id))
@@ -10,9 +11,9 @@ const slugs = new Set()
 const errors = []
 const hasText = (value) => typeof value === 'string' && value.trim().length > 0
 
-if (!Array.isArray(products)) errors.push('products.json must contain an array')
+if (!productFiles.length) errors.push('content/products must contain product JSON files')
 else products.forEach((product, index) => {
-  const label = `product ${index + 1}`
+  const label = productFiles[index]
   if (!product || typeof product !== 'object') {
     errors.push(`${label}: must be an object`)
     return
@@ -36,5 +37,7 @@ if (errors.length) {
   for (const error of errors) console.error(error)
   process.exitCode = 1
 } else {
-  console.log(`Content valid: ${products.length} products and site settings`)
+  mkdirSync(new URL('../public/data/', import.meta.url), { recursive: true })
+  writeFileSync(new URL('../public/data/products.json', import.meta.url), JSON.stringify(products))
+  console.log(`Content valid: ${products.length} products; generated public/data/products.json`)
 }

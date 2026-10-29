@@ -1,0 +1,36 @@
+{
+  "id": 8781,
+  "name": "Lestor",
+  "slug": "lestor",
+  "sku": "SF25318",
+  "summary": "1.the body and one waist cushion all cover with fabric B-2535#(G656-5A),metal base stainless steel in shiny gold color .(class A) 2.the body and one waist cushion all cover with fabric AB-2002#(GL-1139-08),metal base stainless steel in shiny gold color .(class B) 104x89x65.5",
+  "description": "",
+  "categories": [
+    {
+      "id": 133,
+      "name": "Banken &amp; hoekbanken",
+      "slug": "banken-hoekbanken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/SF25318-A3-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/SF25318-A3-1200x1200-1.jpg",
+      "alt": "Lestor — Banken &amp; hoekbanken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/SF25318-A3-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/SF25318-A3-1200x1200-2.jpg",
+      "alt": "Lestor — Banken &amp; hoekbanken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/SF25318-A3-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/03/SF25318-A3-1200x1200-3.jpg",
+      "alt": "Lestor — Banken &amp; hoekbanken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 81
+}

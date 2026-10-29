@@ -1,0 +1,31 @@
+{
+  "id": 8915,
+  "name": "Ostrel",
+  "slug": "ostrel",
+  "sku": "BD25089",
+  "summary": "White jade table top and round columns covered with man- made walnut veneer 8C 257×69.4×104.8",
+  "description": "",
+  "categories": [
+    {
+      "id": 226,
+      "name": "Consoles",
+      "slug": "consoles"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/BD25089-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/BD25089-1200x1200-1.jpg",
+      "alt": "Ostrel — Consoles by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/BD25089-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/BD25089-1200x1200-2.jpg",
+      "alt": "Ostrel — Consoles by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 50
+}

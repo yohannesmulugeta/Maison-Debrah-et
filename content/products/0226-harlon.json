@@ -1,0 +1,41 @@
+{
+  "id": 8847,
+  "name": "Harlon",
+  "slug": "harlon",
+  "sku": "BS24039",
+  "summary": "Covered with fabric B-2529#(2980-2A),stainless steel plating in bronze brushed WJ-04,connection frame painted in matt black color. 57x60x101",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/BS24039-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/BS24039-1200x1200-1.jpg",
+      "alt": "Harlon — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/BS24039-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/03/BS24039-1200x1200-3.jpg",
+      "alt": "Harlon — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/BS24039-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/BS24039-1200x1200-2.jpg",
+      "alt": "Harlon — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/BS24039-1200x1200-4.jpg",
+      "thumbnail": "/media/2026/03/BS24039-1200x1200-4.jpg",
+      "alt": "Harlon — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 67
+}

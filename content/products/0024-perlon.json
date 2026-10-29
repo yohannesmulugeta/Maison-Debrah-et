@@ -1,0 +1,31 @@
+{
+  "id": 8916,
+  "name": "Perlon",
+  "slug": "perlon",
+  "sku": "BN23168-5930",
+  "summary": "Hardware paint in brass metal paint straight grain in W2303# ,the body cover with elm veneer in dark grey matt MP-2306# , Drawer surface covered with brass metal paint straight grain in W2303#. 46×48",
+  "description": "",
+  "categories": [
+    {
+      "id": 238,
+      "name": "Commodes &amp; nachtkastjes",
+      "slug": "commodes-nachtkastjes"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/BN23168-5930-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/BN23168-5930-1200x1200-1.jpg",
+      "alt": "Perlon — Commodes &amp; nachtkastjes by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/BN23168-5930-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/BN23168-5930-1200x1200-2.jpg",
+      "alt": "Perlon — Commodes &amp; nachtkastjes by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 79500,
+  "shopOrder": 22
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8422,
+  "name": "Jalen",
+  "slug": "jalen",
+  "sku": "CM24041-002",
+  "summary": "Jalen pairs a polished mirror with a matte black baseboard for a sharp, modern contrast. A brass metallic frame adds warmth and refined detail, giving the piece a sleek, upscale presence. 5mm mirror with black matt baseboard, metal frame in brass metallic W2303. 100x170x7",
+  "description": "",
+  "categories": [
+    {
+      "id": 239,
+      "name": "Spiegels",
+      "slug": "spiegels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/CM24041-002-1.jpg",
+      "thumbnail": "/media/2025/12/CM24041-002-1.jpg",
+      "alt": "Jalen — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM24041-002-2.jpg",
+      "thumbnail": "/media/2025/12/CM24041-002-2.jpg",
+      "alt": "Jalen — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM24041-002-3.jpg",
+      "thumbnail": "/media/2025/12/CM24041-002-3.jpg",
+      "alt": "Jalen — Spiegels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 135
+}

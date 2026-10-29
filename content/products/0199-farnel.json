@@ -1,0 +1,31 @@
+{
+  "id": 8697,
+  "name": "Farnel",
+  "slug": "farnel",
+  "sku": "Y-E25058B",
+  "summary": "Table top and solid wood leg in MP-2306, base in Bronze paint with straight grain (W2303#). 55x34x50",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/Y-E25058B-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/Y-E25058B-1200x1200-1.jpg",
+      "alt": "Farnel — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/Y-E25058B-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/02/Y-E25058B-1200x1200-2.jpg",
+      "alt": "Farnel — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 95
+}

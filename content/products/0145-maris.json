@@ -1,0 +1,36 @@
+{
+  "id": 8361,
+  "name": "Maris",
+  "slug": "maris",
+  "sku": "BH25310",
+  "summary": "Maris is fully wrapped in refined fabric, giving the main body a smooth, tailored presence. The base is finished in hard leather, adding a firm, structured contrast that grounds the design. The mix of soft upholstery and crisp leather gives Maris a modern, elevated character without trying too hard. Main body all covered with fabric, base covered with hard leather. 168×51.5×44",
+  "description": "",
+  "categories": [
+    {
+      "id": 242,
+      "name": "Benches",
+      "slug": "benches"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/BH25310.jpg",
+      "thumbnail": "/media/2025/12/BH25310.jpg",
+      "alt": "Maris — Benches by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/BH25310（1）.jpg",
+      "thumbnail": "/media/2025/12/BH25310（1）.jpg",
+      "alt": "Maris — Benches by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/BH25310（2）.jpg",
+      "thumbnail": "/media/2025/12/BH25310（2）.jpg",
+      "alt": "Maris — Benches by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 151
+}

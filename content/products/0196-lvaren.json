@@ -1,0 +1,36 @@
+{
+  "id": 8678,
+  "name": "Lvaren",
+  "slug": "lvaren",
+  "sku": "C25041B",
+  "summary": "Maple brown marble top(leathering finish), bottom panel and fiberglass base in creamy high-gloss paint W2308. 95x73x40",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/C25041B-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/C25041B-1200x1200-1.jpg",
+      "alt": "Lvaren — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/C25041B-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/02/C25041B-1200x1200-2.jpg",
+      "alt": "Lvaren — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/C25041B-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/02/C25041B-1200x1200-3.jpg",
+      "alt": "Lvaren — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 98
+}

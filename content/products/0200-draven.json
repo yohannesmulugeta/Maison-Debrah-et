@@ -1,0 +1,41 @@
+{
+  "id": 8699,
+  "name": "Draven",
+  "slug": "draven",
+  "sku": "Y-E25055A &#8211; 001",
+  "summary": "Top and solid wood Leg with dark gray elm veneer (MP-2306#); 55×46.5×47.5",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/Y-E25055A-001-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/Y-E25055A-001-1200x1200-1.jpg",
+      "alt": "Draven — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/Y-E25055A-001-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/02/Y-E25055A-001-1200x1200-2.jpg",
+      "alt": "Draven — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/Y-E25055A-001-1200x1200-4.jpg",
+      "thumbnail": "/media/2026/02/Y-E25055A-001-1200x1200-4.jpg",
+      "alt": "Draven — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/02/Y-E25055A-001-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/02/Y-E25055A-001-1200x1200-3.jpg",
+      "alt": "Draven — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 94
+}

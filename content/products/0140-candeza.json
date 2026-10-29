@@ -1,0 +1,26 @@
+{
+  "id": 8339,
+  "name": "Candeza",
+  "slug": "candeza",
+  "sku": "DB-DS202500734",
+  "summary": "Candeza is a light that carries a lyrical strength, its form glowing with the quiet depth of stone and the refinement of a golden finish. Designed to create both warmth and presence, it turns illumination into a composition of poise and brilliance. W120*E65*H460mm Alabaster+Steel",
+  "description": "",
+  "categories": [
+    {
+      "id": 145,
+      "name": "Wandlampen",
+      "slug": "wandlampen"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/09/DB-DS202500734-1.jpg",
+      "thumbnail": "/media/2025/09/DB-DS202500734-1.jpg",
+      "alt": "Candeza — Wandlampen by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 156
+}

@@ -1,0 +1,41 @@
+{
+  "id": 7850,
+  "name": "ischia",
+  "slug": "ischia",
+  "sku": "E23145",
+  "summary": "Ischia coffee table is offered in two refined variations. One features grey wavy-patterned art glass paired with legs in brushed brass for a warm metallic finish. The other combines the same sculpted glass top with a base wrapped in light grey elm veneer, blending texture and tone with subtle elegance Φ60×55",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E231451.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E231451-500x500.jpg",
+      "alt": "ischia — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E231453.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E231453-500x500.jpg",
+      "alt": "ischia — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E231452.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E231452-500x500.jpg",
+      "alt": "ischia — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E231454.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/E231454-500x500.jpg",
+      "alt": "ischia — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 255
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7904,
+  "name": "bijou",
+  "slug": "bijou",
+  "sku": "RC25112",
+  "summary": "Bijou features a gracefully upholstered silhouette with both frame and cushion dressed in rich woven fabric, offering a refined contrast between structure and softness. Its tailored form invites an elevated sense of comfort and sophistication. 76x77x76",
+  "description": "",
+  "categories": [
+    {
+      "id": 134,
+      "name": "Fauteuils &amp; statement stoelen",
+      "slug": "fauteuils-statement-stoelen"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/RC251121.jpg",
+      "thumbnail": "/media/2025/08/RC251121.jpg",
+      "alt": "bijou — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/RC251122.jpg",
+      "thumbnail": "/media/2025/08/RC251122.jpg",
+      "alt": "bijou — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/RC251123.jpg",
+      "thumbnail": "/media/2025/08/RC251123.jpg",
+      "alt": "bijou — Fauteuils &amp; statement stoelen by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 239
+}

@@ -1,0 +1,72 @@
+{
+  "id": 8557,
+  "name": "Zivar",
+  "slug": "zivar",
+  "sku": "",
+  "summary": "Zivar carries a body finished in brass metallic paint, giving it a warm, radiant presence with a subtle sheen. The interior and base in matte black add a deep, refined contrast that sharpens the silhouette. The combination delivers a modern piece with a composed, upscale character. Body with brass metallic paint, inside and base in matt black 70×100 / 60x60x100 / 75x75x60",
+  "description": "",
+  "categories": [
+    {
+      "id": 225,
+      "name": "Vazen en plantenbakken",
+      "slug": "vazen-en-plantenbakken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/PT24263-001.jpg",
+      "thumbnail": "/media/2025/12/PT24263-001.jpg",
+      "alt": "Zivar — Vazen en plantenbakken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/PT24263-001.jpg",
+      "thumbnail": "/media/2025/12/PT24263-001.jpg",
+      "alt": "Zivar — Vazen en plantenbakken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/PT24263B（1）.jpg",
+      "thumbnail": "/media/2025/12/PT24263B（1）.jpg",
+      "alt": "Zivar — Vazen en plantenbakken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/PT24263B.jpg",
+      "thumbnail": "/media/2025/12/PT24263B.jpg",
+      "alt": "Zivar — Vazen en plantenbakken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/PT24263B（2）.jpg",
+      "thumbnail": "/media/2025/12/PT24263B（2）.jpg",
+      "alt": "Zivar — Vazen en plantenbakken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/PT24263B-001（1）.jpg",
+      "thumbnail": "/media/2025/12/PT24263B-001（1）.jpg",
+      "alt": "Zivar — Vazen en plantenbakken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [
+    {
+      "name": "Sizes",
+      "terms": [
+        {
+          "id": 0,
+          "name": "70x100",
+          "slug": "70x100"
+        },
+        {
+          "id": 0,
+          "name": "60x60x100",
+          "slug": "60x60x100"
+        },
+        {
+          "id": 0,
+          "name": "75x75x60",
+          "slug": "75x75x60"
+        }
+      ]
+    }
+  ],
+  "price": null,
+  "shopOrder": 119
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8167,
+  "name": "Siennea",
+  "slug": "siennea",
+  "sku": "BR18158",
+  "summary": "Siennea is defined by contrast and warmth. Its frame, plated in rich yellow copper, glows with a quiet radiance, while the matte surface above introduces a note of calm modernity. The body is enveloped in walnut veneer, its natural grain adding depth and timeless character. Inside, drawers lined in black fabric reveal a hidden softness, elevated by a mirrored detail accented with a delicate band of light. Siennea speaks to contemporary elegance, where structure and intimacy meet in harmonious design.",
+  "description": "",
+  "categories": [
+    {
+      "id": 238,
+      "name": "Commodes &amp; nachtkastjes",
+      "slug": "commodes-nachtkastjes"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BR18158-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BR18158-1-500x500.jpg",
+      "alt": "Siennea — Commodes &amp; nachtkastjes by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BR18158-2.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BR18158-2-500x500.jpg",
+      "alt": "Siennea — Commodes &amp; nachtkastjes by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BR18158-3.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BR18158-3-500x500.jpg",
+      "alt": "Siennea — Commodes &amp; nachtkastjes by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 187
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8168,
+  "name": "Arvenne",
+  "slug": "arvenne",
+  "sku": "BR20226",
+  "summary": "Arvenne is shaped by luminous contrasts. Its frame in brushed brass stainless steel brings a subtle warmth and enduring strength, while the body, finished in radiant Koto veneer, shimmers with refined brilliance. A mirrored back enhances the depth of the design, reflecting light with quiet elegance. The drawer, lined in soft fabric, introduces a tactile intimacy that completes the piece. Balanced between structure and detail, Arvenne embodies sophistication with a timeless modern spirit.",
+  "description": "",
+  "categories": [
+    {
+      "id": 238,
+      "name": "Commodes &amp; nachtkastjes",
+      "slug": "commodes-nachtkastjes"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BR20226-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BR20226-1-500x500.jpg",
+      "alt": "Arvenne — Commodes &amp; nachtkastjes by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BR20226.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BR20226-500x500.jpg",
+      "alt": "Arvenne — Commodes &amp; nachtkastjes by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BR20226-2.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BR20226-2-500x500.jpg",
+      "alt": "Arvenne — Commodes &amp; nachtkastjes by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 186
+}

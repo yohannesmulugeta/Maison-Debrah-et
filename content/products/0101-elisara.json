@@ -1,0 +1,36 @@
+{
+  "id": 8079,
+  "name": "Elisara",
+  "slug": "elisara",
+  "sku": "DC24234",
+  "summary": "Elisara is upholstered in refined imitation leather that lends a smooth, polished character to its silhouette. The design is elevated on stainless steel legs finished in brushed nickel, a subtle detail that adds modern radiance. With its clean lines and poised form, it embodies understated elegance made to enhance contemporary interiors with quiet distinction. 62x60x72",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/DC242341-2.jpg",
+      "thumbnail": "/media/2025/08/DC242341-2.jpg",
+      "alt": "Elisara — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/DC242342.jpg",
+      "thumbnail": "/media/2025/08/DC242342.jpg",
+      "alt": "Elisara — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/DC242343.jpg",
+      "thumbnail": "/media/2025/08/DC242343.jpg",
+      "alt": "Elisara — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 202
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7883,
+  "name": "aurora",
+  "slug": "aurora",
+  "sku": "RC23052",
+  "summary": "Aurora blends refined tailoring with elegant detail. Upholstered entirely in a sophisticated fabric, its sculpted backrest is adorned with a brushed bronze accent, adding a radiant touch. A stainless steel base in matching finish grounds the silhouette with luxurious stability and quiet grandeur. 79x84x68",
+  "description": "",
+  "categories": [
+    {
+      "id": 134,
+      "name": "Fauteuils &amp; statement stoelen",
+      "slug": "fauteuils-statement-stoelen"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/RC23052-1.jpg",
+      "thumbnail": "/media/2025/08/RC23052-1.jpg",
+      "alt": "aurora — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/RC230524.jpg",
+      "thumbnail": "/media/2025/08/RC230524.jpg",
+      "alt": "aurora — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/RC230526.jpg",
+      "thumbnail": "/media/2025/08/RC230526.jpg",
+      "alt": "aurora — Fauteuils &amp; statement stoelen by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 79500,
+  "shopOrder": 24
+}

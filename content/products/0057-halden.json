@@ -1,0 +1,36 @@
+{
+  "id": 7857,
+  "name": "halden",
+  "slug": "halden",
+  "sku": "E24053",
+  "summary": "Halden coffee table features a sleek lacquered finish in soft grey tones, with dual rotating tiers that add both function and sculptural intrigue to its minimalist form. Φ50(69)x42",
+  "description": "",
+  "categories": [
+    {
+      "id": 163,
+      "name": "Bijzettafels",
+      "slug": "bijzettafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/E240531.jpg",
+      "thumbnail": "/media/2025/08/E240531.jpg",
+      "alt": "halden — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/E240532.jpg",
+      "thumbnail": "/media/2025/08/E240532.jpg",
+      "alt": "halden — Bijzettafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/E240533.jpg",
+      "thumbnail": "/media/2025/08/E240533.jpg",
+      "alt": "halden — Bijzettafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 249
+}

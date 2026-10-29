@@ -1,0 +1,52 @@
+{
+  "id": 7832,
+  "name": "provence",
+  "slug": "provence",
+  "sku": "C23125",
+  "summary": "The Provence coffee table features a light grey elm wood veneer in a smooth matte finish, bringing a soft natural texture to the surface. Its stainless steel legs, finished in antique brass, add a warm metallic contrast to the clean, refined silhouette. 140x140x35 / 145x80x35",
+  "description": "",
+  "categories": [
+    {
+      "id": 137,
+      "name": "Salontafels",
+      "slug": "salontafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C23125A1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C23125A1-500x500.jpg",
+      "alt": "provence — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C23125A2.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C23125A2-500x500.jpg",
+      "alt": "provence — Salontafels by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C23125A3.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/C23125A3-500x500.jpg",
+      "alt": "provence — Salontafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [
+    {
+      "name": "Dimensions",
+      "terms": [
+        {
+          "id": 0,
+          "name": "140x140x35",
+          "slug": "140x140x35"
+        },
+        {
+          "id": 0,
+          "name": "145x80x35",
+          "slug": "145x80x35"
+        }
+      ]
+    }
+  ],
+  "price": null,
+  "shopOrder": 265
+}

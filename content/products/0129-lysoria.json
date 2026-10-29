@@ -1,0 +1,36 @@
+{
+  "id": 8233,
+  "name": "Lysoria",
+  "slug": "lysoria",
+  "sku": "AB20001",
+  "summary": "Lysoria is defined by the elegance of fine leather and the craftsmanship of detail. Offered in two variations, one with a half leather finish and the other fully enveloped, each piece is distinguished by a back adorned with hexagonal patterned stitching. The geometric motif adds a tailored sophistication, transforming leather into architecture. Refined and tactile, Lysoria embodies modern luxury shaped through precision and artistry. 181x221x109(150×200) / 211x221x109(180×200)",
+  "description": "",
+  "categories": [
+    {
+      "id": 139,
+      "name": "Bedden &amp; hoofdborden",
+      "slug": "bedden-hoofdborden"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/AB200012.jpg",
+      "thumbnail": "/media/2025/08/AB200012.jpg",
+      "alt": "Lysoria — Bedden &amp; hoofdborden by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/AB200011.jpg",
+      "thumbnail": "/media/2025/08/AB200011.jpg",
+      "alt": "Lysoria — Bedden &amp; hoofdborden by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/AB200013.jpg",
+      "thumbnail": "/media/2025/08/AB200013.jpg",
+      "alt": "Lysoria — Bedden &amp; hoofdborden by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 173
+}

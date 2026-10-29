@@ -1,0 +1,47 @@
+{
+  "id": 8297,
+  "name": "Arviano",
+  "slug": "arviano",
+  "sku": "",
+  "summary": "Arviano is a table lamp of golden presence, its form uniting refined strength with a quiet, glowing warmth. Sculptural and enduring, it transforms light into atmosphere, a timeless expression of elegance for the modern interior. W305*E130*H305mm Alabaster+Steel",
+  "description": "",
+  "categories": [
+    {
+      "id": 147,
+      "name": "Tafellampen",
+      "slug": "tafellampen"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/09/DB-DS202500735.jpg",
+      "thumbnail": "/media/2025/09/DB-DS202500735.jpg",
+      "alt": "Arviano — Tafellampen by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/09/DB-DS202500736.jpg",
+      "thumbnail": "/media/2025/09/DB-DS202500736.jpg",
+      "alt": "Arviano — Tafellampen by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [
+    {
+      "name": "Dimensions",
+      "terms": [
+        {
+          "id": 0,
+          "name": "W305*E130*H305mm",
+          "slug": "W305*E130*H305mm"
+        },
+        {
+          "id": 0,
+          "name": "W460*E230*H570mm",
+          "slug": "W460*E230*H570mm"
+        }
+      ]
+    }
+  ],
+  "price": null,
+  "shopOrder": 161
+}

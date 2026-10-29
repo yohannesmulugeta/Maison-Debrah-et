@@ -1,0 +1,41 @@
+{
+  "id": 8448,
+  "name": "Aynor",
+  "slug": "aynor",
+  "sku": "CM25054",
+  "summary": "Aynor features black melted glass that gives the surface a deep, fluid sheen, paired with a mirrored front for sharp reflective clarity. The matte black backboard grounds the piece with a sleek, modern edge. 5mm black glass in melt, front covered 5mm mirror. backboard in black matt. 110x110x6.5",
+  "description": "",
+  "categories": [
+    {
+      "id": 239,
+      "name": "Spiegels",
+      "slug": "spiegels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/CM250541.jpg",
+      "thumbnail": "/media/2025/12/CM250541.jpg",
+      "alt": "Aynor — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM250542.jpg",
+      "thumbnail": "/media/2025/12/CM250542.jpg",
+      "alt": "Aynor — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM250543.jpg",
+      "thumbnail": "/media/2025/12/CM250543.jpg",
+      "alt": "Aynor — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/CM250544.jpg",
+      "thumbnail": "/media/2025/12/CM250544.jpg",
+      "alt": "Aynor — Spiegels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 132
+}

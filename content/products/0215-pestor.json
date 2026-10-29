@@ -1,0 +1,36 @@
+{
+  "id": 8784,
+  "name": "Pestor",
+  "slug": "pestor",
+  "sku": "",
+  "summary": "All covered with fabric B-2529#(A2980-2A), base in stainless steel in yellow copper brushed WJ-04#. 90.5×81.5×78",
+  "description": "",
+  "categories": [
+    {
+      "id": 134,
+      "name": "Fauteuils &amp; statement stoelen",
+      "slug": "fauteuils-statement-stoelen"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/RC25208-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/RC25208-1200x1200-1.jpg",
+      "alt": "Pestor — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/RC25208-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/RC25208-1200x1200-2.jpg",
+      "alt": "Pestor — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/RC25208-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/03/RC25208-1200x1200-3.jpg",
+      "alt": "Pestor — Fauteuils &amp; statement stoelen by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 78
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8939,
+  "name": "Avenor",
+  "slug": "avenor",
+  "sku": "BS19307",
+  "summary": "Seat and back cover with FB-01, metal frame powder coated in grey matte gold WJ-08. 48.5×54.4×101",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BS19307-1200x1200-1.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BS19307-1200x1200-1-500x500.jpg",
+      "alt": "Avenor — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BS19307-1200x1200-2.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/BS19307-1200x1200-2-500x500.jpg",
+      "alt": "Avenor — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 47
+}

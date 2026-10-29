@@ -1,0 +1,26 @@
+{
+  "id": 7845,
+  "name": "fairmont",
+  "slug": "fairmont",
+  "sku": "",
+  "summary": "The Fairmount coffee table features an oak veneer body with a smooth interior finish. A brushed nickel base adds a sleek metallic accent, bringing warmth and modern balance to the natural wood texture 110x110x35",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC24233.jpg",
+      "thumbnail": "https://staging5.nl.maisondebrah.com/wp-content/uploads/2026/06/DC24233-500x333.jpg",
+      "alt": "fairmont — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 259
+}

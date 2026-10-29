@@ -1,0 +1,41 @@
+{
+  "id": 8850,
+  "name": "Estrin",
+  "slug": "estrin",
+  "sku": "BS23068-1111",
+  "summary": "Seat covered with Fabric B-2302#(RZ2116-06), stainless steel base in brushed bronze plating in WJ-09#. 54x50x106",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/BS23068-1111-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/BS23068-1111-1200x1200-1.jpg",
+      "alt": "Estrin — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/BS23068-1111-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/BS23068-1111-1200x1200-2.jpg",
+      "alt": "Estrin — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/BS23068-1111-1200x1200-4.jpg",
+      "thumbnail": "/media/2026/03/BS23068-1111-1200x1200-4.jpg",
+      "alt": "Estrin — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/BS23068-1111-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/03/BS23068-1111-1200x1200-3.jpg",
+      "alt": "Estrin — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 65
+}

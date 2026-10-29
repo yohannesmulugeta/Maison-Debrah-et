@@ -1,0 +1,36 @@
+{
+  "id": 8077,
+  "name": "Avoria",
+  "slug": "avoria",
+  "sku": "DC24078",
+  "summary": "Avoria is crafted in a choice of richly textured fabric or smooth imitation leather, each finish creating a distinct mood of elegance. Its fully upholstered form gives it a sculptural presence, while the seamless lines and tailored detailing highlight a refined attention to design. With a quiet confidence and timeless character, it brings both warmth and distinction to contemporary interiors. 67x61x96",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/DC240781.jpg",
+      "thumbnail": "/media/2025/08/DC240781.jpg",
+      "alt": "Avoria — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/DC240782.jpg",
+      "thumbnail": "/media/2025/08/DC240782.jpg",
+      "alt": "Avoria — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/DC240783.jpg",
+      "thumbnail": "/media/2025/08/DC240783.jpg",
+      "alt": "Avoria — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 204
+}

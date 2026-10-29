@@ -1,0 +1,36 @@
+{
+  "id": 8146,
+  "name": "Roselith",
+  "slug": "roselith",
+  "sku": "Y-DC24077",
+  "summary": "Roselith is crafted from solid elm with a light gray veneer that highlights the natural beauty of the wood. The seat is upholstered in finely textured fabric, bringing a soft contrast to the clean structure of the frame. With its balance of warmth and refinement, it presents a timeless silhouette designed to complement contemporary living.",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/Y-DC240771.jpg",
+      "thumbnail": "/media/2025/08/Y-DC240771.jpg",
+      "alt": "Roselith — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/Y-DC240772.jpg",
+      "thumbnail": "/media/2025/08/Y-DC240772.jpg",
+      "alt": "Roselith — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/Y-DC240773.jpg",
+      "thumbnail": "/media/2025/08/Y-DC240773.jpg",
+      "alt": "Roselith — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 190
+}

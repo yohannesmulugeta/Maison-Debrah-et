@@ -1,0 +1,51 @@
+{
+  "id": 8805,
+  "name": "Morven",
+  "slug": "morven",
+  "sku": "Y-DC25056B",
+  "summary": "Solid wood leg in dark grey color MP-2306,covered with fabric B-2524#(A3540-4A), without armrest. 49x59x82",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/Y-DC25056B-B-2524-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/Y-DC25056B-B-2524-1200x1200-1.jpg",
+      "alt": "Morven — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/Y-DC25056B-B-2524-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/Y-DC25056B-B-2524-1200x1200-2.jpg",
+      "alt": "Morven — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/Y-DC25056B-B-2524-1200x1200-5.jpg",
+      "thumbnail": "/media/2026/03/Y-DC25056B-B-2524-1200x1200-5.jpg",
+      "alt": "Morven — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/Y-DC25056B-B-2524-1200x1200-4.jpg",
+      "thumbnail": "/media/2026/03/Y-DC25056B-B-2524-1200x1200-4.jpg",
+      "alt": "Morven — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/Y-DC25056B-B-2524-1200x1200-3.jpg",
+      "thumbnail": "/media/2026/03/Y-DC25056B-B-2524-1200x1200-3.jpg",
+      "alt": "Morven — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/Y-DC25056B-B-2524-1200x1200-6.jpg",
+      "thumbnail": "/media/2026/03/Y-DC25056B-B-2524-1200x1200-6.jpg",
+      "alt": "Morven — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 74
+}

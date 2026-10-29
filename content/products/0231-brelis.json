@@ -1,0 +1,31 @@
+{
+  "id": 8853,
+  "name": "Brelis",
+  "slug": "brelis",
+  "sku": "CM24233-001",
+  "summary": "5mm mirror, back panel cover with silver travertine marble in matt TRS-2402#the middle panel paint in brass metallic W2303#. 94x129x3",
+  "description": "",
+  "categories": [
+    {
+      "id": 239,
+      "name": "Spiegels",
+      "slug": "spiegels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/CM24233-001-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/CM24233-001-1200x1200-2.jpg",
+      "alt": "Brelis — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/CM24233-001-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/CM24233-001-1200x1200-1.jpg",
+      "alt": "Brelis — Spiegels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 62
+}

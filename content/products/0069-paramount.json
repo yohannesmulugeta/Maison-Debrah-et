@@ -1,0 +1,31 @@
+{
+  "id": 7908,
+  "name": "paramount",
+  "slug": "paramount",
+  "sku": "RC67406",
+  "summary": "Paramount offers an artful harmony of comfort and precision. The seat and backrest are entirely wrapped in luxurious fabric, creating a seamless and sculpted profile. Anchored by a matte black metal base with smooth swivel functionality, it exudes quiet confidence and contemporary refinement. 52x48x69.5",
+  "description": "",
+  "categories": [
+    {
+      "id": 134,
+      "name": "Fauteuils &amp; statement stoelen",
+      "slug": "fauteuils-statement-stoelen"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/RC674061.jpg",
+      "thumbnail": "/media/2025/08/RC674061.jpg",
+      "alt": "paramount — Fauteuils &amp; statement stoelen by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/RC674062.jpg",
+      "thumbnail": "/media/2025/08/RC674062.jpg",
+      "alt": "paramount — Fauteuils &amp; statement stoelen by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 236
+}

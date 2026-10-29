@@ -1,0 +1,36 @@
+{
+  "id": 8033,
+  "name": "Cymbeline",
+  "slug": "cymbeline",
+  "sku": "DC23077-1111",
+  "summary": "Cymbeline is a statement of modern refinement. The back and piping are upholstered in soft, tailored fabric, creating subtle contrast and depth. Its silhouette is grounded by legs finished in a matte black gold powder, adding a touch of quiet opulence. With clean lines and a confident presence, it brings a sense of sophistication to any interior. 59.5×58.5×75.5",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/DC23077-11111-1.jpg",
+      "thumbnail": "/media/2025/08/DC23077-11111-1.jpg",
+      "alt": "Cymbeline — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/DC23077-11112.jpg",
+      "thumbnail": "/media/2025/08/DC23077-11112.jpg",
+      "alt": "Cymbeline — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/DC23077-11113.jpg",
+      "thumbnail": "/media/2025/08/DC23077-11113.jpg",
+      "alt": "Cymbeline — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 214
+}

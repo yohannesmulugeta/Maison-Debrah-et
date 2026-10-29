@@ -1,0 +1,36 @@
+{
+  "id": 8315,
+  "name": "Serano",
+  "slug": "serano",
+  "sku": "DB-DS202500753",
+  "summary": "Serano is a floor lamp that stands with quiet authority, its tall form casting a golden glow that feels both sculptural and intimate. Veined surfaces catch the light like moving shadows, while its refined finish anchors the design in timeless luxury. D250*H1430mm Alabaster+Steel",
+  "description": "",
+  "categories": [
+    {
+      "id": 146,
+      "name": "Staande lampen",
+      "slug": "staande-lampen"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/09/DB-DS202500753-2.jpg",
+      "thumbnail": "/media/2025/09/DB-DS202500753-2.jpg",
+      "alt": "Serano — Staande lampen by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/09/DB-DS202500753-1.jpg",
+      "thumbnail": "/media/2025/09/DB-DS202500753-1.jpg",
+      "alt": "Serano — Staande lampen by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/09/DB-DS202500753-3.jpg",
+      "thumbnail": "/media/2025/09/DB-DS202500753-3.jpg",
+      "alt": "Serano — Staande lampen by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 160
+}

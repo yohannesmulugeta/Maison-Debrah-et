@@ -1,0 +1,41 @@
+{
+  "id": 8602,
+  "name": "Oryel",
+  "slug": "oryel",
+  "sku": "TVR24235",
+  "summary": "Oryel showcases a chemical glass top backed in deep dark grey, giving the surface a sleek, tempered clarity with a modern, moody tone. The body is wrapped in light grey matte elm veneer, adding a soft, contemporary texture that balances the glass. Inside, melamine panels keep the storage clean and orderly. Brass metallic painted metal legs introduce a warm, refined contrast, completing the piece with a polished contemporary presence. Top with 5mm chemical glass top back in dark grey color , tempered , the body all cover with elm veneer in light gray matt inner panels with melamine, metal legs paint in brass metallic. 200x42x53",
+  "description": "",
+  "categories": [
+    {
+      "id": 224,
+      "name": "TV-meubels",
+      "slug": "tv-meubels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/TVR242351.jpg",
+      "thumbnail": "/media/2025/12/TVR242351.jpg",
+      "alt": "Oryel — TV-meubels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/TVR242352.jpg",
+      "thumbnail": "/media/2025/12/TVR242352.jpg",
+      "alt": "Oryel — TV-meubels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/TVR242353.jpg",
+      "thumbnail": "/media/2025/12/TVR242353.jpg",
+      "alt": "Oryel — TV-meubels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/TVR242354.jpg",
+      "thumbnail": "/media/2025/12/TVR242354.jpg",
+      "alt": "Oryel — TV-meubels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 179500,
+  "shopOrder": 12
+}

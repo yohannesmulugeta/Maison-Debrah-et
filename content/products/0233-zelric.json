@@ -1,0 +1,31 @@
+{
+  "id": 8871,
+  "name": "Zelric",
+  "slug": "zelric",
+  "sku": "CM25055C",
+  "summary": "5mm mirror. the small panels and back panel all paint in vintage brass W2502#. 60x180x4.2",
+  "description": "",
+  "categories": [
+    {
+      "id": 239,
+      "name": "Spiegels",
+      "slug": "spiegels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/03/CM25055C-1200x1200-2.jpg",
+      "thumbnail": "/media/2026/03/CM25055C-1200x1200-2.jpg",
+      "alt": "Zelric — Spiegels by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/03/CM25055C-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/03/CM25055C-1200x1200-1.jpg",
+      "alt": "Zelric — Spiegels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 60
+}

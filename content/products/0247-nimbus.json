@@ -1,0 +1,41 @@
+{
+  "id": 8955,
+  "name": "Nimbus",
+  "slug": "nimbus",
+  "sku": "SF26022-A4",
+  "summary": "Some sofas furnish a room. The Nimbus transforms it. Inspired by the effortless poetry of clouds in motion, the Nimbus is defined by its breathtaking backrest- a continuous wave of softly billowing peaks that rise and fall across the full width of the sofa like a sculptural horizon. No two silhouettes are the same from any angle, making this a piece that rewards every glance. Three generous seat cushions flow seamlessly below, their deep, rounded forms grounded and inviting, while two small cylindrical bolster arms tuck in at either end with a charming, considered gentleness. Every surface is wrapped in a sumptuously textured fabric in the softest oyster white – its subtle, cloud-like weave catching light with a quiet luminosity that feels as pure as the form itself. The Nimbus doesn’t ask to be the centrepiece of a room. It simply becomes one, naturally. 2900*1000*750h mm",
+  "description": "",
+  "categories": [
+    {
+      "id": 133,
+      "name": "Banken &amp; hoekbanken",
+      "slug": "banken-hoekbanken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/05/SF26022-A4-1.jpg",
+      "thumbnail": "/media/2026/05/SF26022-A4-1.jpg",
+      "alt": "Nimbus — Banken &amp; hoekbanken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/05/SF26022-A4-2.jpg",
+      "thumbnail": "/media/2026/05/SF26022-A4-2.jpg",
+      "alt": "Nimbus — Banken &amp; hoekbanken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/05/SF26022-A4-4.jpg",
+      "thumbnail": "/media/2026/05/SF26022-A4-4.jpg",
+      "alt": "Nimbus — Banken &amp; hoekbanken by Maison Debrah"
+    },
+    {
+      "src": "/media/2026/05/SF26022-A4-3.jpg",
+      "thumbnail": "/media/2026/05/SF26022-A4-3.jpg",
+      "alt": "Nimbus — Banken &amp; hoekbanken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 45
+}

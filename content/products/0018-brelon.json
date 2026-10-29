@@ -1,0 +1,26 @@
+{
+  "id": 8756,
+  "name": "Brelon",
+  "slug": "brelon",
+  "sku": "T24246",
+  "summary": "5mm chemical frosted glass top in G7006-1,tempered. top panel and legs painted dual brass metallic W2502#. 116x114x70",
+  "description": "",
+  "categories": [
+    {
+      "id": 136,
+      "name": "Eetkamertafels",
+      "slug": "eetkamertafels"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2026/02/T24246-1200x1200-1.jpg",
+      "thumbnail": "/media/2026/02/T24246-1200x1200-1.jpg",
+      "alt": "Brelon — Eetkamertafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": 149500,
+  "shopOrder": 15
+}

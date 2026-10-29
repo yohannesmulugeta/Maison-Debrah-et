@@ -1,0 +1,36 @@
+{
+  "id": 8149,
+  "name": "Eloria",
+  "slug": "eloria",
+  "sku": "AD20048",
+  "summary": "Eloria stands with sculptural confidence, its tripod base crafted from stainless steel in a deep black nickel finish. The surface is subtly brushed, creating a play of shadow and texture that catches the light with quiet sophistication. Minimalist yet striking, Eloria embodies modern refinement expressed through form and detail.",
+  "description": "",
+  "categories": [
+    {
+      "id": 158,
+      "name": "Bureaus en schrijftafels",
+      "slug": "bureaus"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/AD20048-2.jpg",
+      "thumbnail": "/media/2025/08/AD20048-2.jpg",
+      "alt": "Eloria — Bureaus en schrijftafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/AD20048-1-1.jpg",
+      "thumbnail": "/media/2025/08/AD20048-1-1.jpg",
+      "alt": "Eloria — Bureaus en schrijftafels by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/AD20048-3.jpg",
+      "thumbnail": "/media/2025/08/AD20048-3.jpg",
+      "alt": "Eloria — Bureaus en schrijftafels by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 188
+}

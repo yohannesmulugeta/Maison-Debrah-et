@@ -1,0 +1,41 @@
+{
+  "id": 8601,
+  "name": "Zemar",
+  "slug": "zemar",
+  "sku": "SB25059",
+  "summary": "Zemar features an Italian white ceramic top that brings a crisp, contemporary brightness to the piece. The main body and doors are wrapped in light grey matte elm veneer, giving the form a smooth, refined texture with a soft modern character. Inside, melamine panels keep the interior neat and well finished, completing a design that feels polished and elevated. Top with Italy white ceramic, the mainly body and doors cover with elm veneer in light grey matt.inner panels with melamine. 200x42x80",
+  "description": "",
+  "categories": [
+    {
+      "id": 237,
+      "name": "Dressoires",
+      "slug": "dressoires"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/12/SB25059.jpg",
+      "thumbnail": "/media/2025/12/SB25059.jpg",
+      "alt": "Zemar — Dressoires by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/SB25059-TC2402-MP2307.jpg",
+      "thumbnail": "/media/2025/12/SB25059-TC2402-MP2307.jpg",
+      "alt": "Zemar — Dressoires by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/SB250592.jpg",
+      "thumbnail": "/media/2025/12/SB250592.jpg",
+      "alt": "Zemar — Dressoires by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/12/SB250591.jpg",
+      "thumbnail": "/media/2025/12/SB250591.jpg",
+      "alt": "Zemar — Dressoires by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 114
+}

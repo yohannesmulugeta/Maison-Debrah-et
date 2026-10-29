@@ -1,0 +1,36 @@
+{
+  "id": 8052,
+  "name": "Elandra",
+  "slug": "elandra",
+  "sku": "DC24036",
+  "summary": "Elandra is fully upholstered in richly textured fabric, giving it a seamless and sculptural presence. The smooth contours and refined surface create a sense of quiet sophistication, while the tailored finish adds depth and character. Minimal in form yet luxurious in detail, it offers timeless elegance for contemporary living. 61x47x81",
+  "description": "",
+  "categories": [
+    {
+      "id": 135,
+      "name": "Eetkamerstoelen &amp; barkrukken",
+      "slug": "eetkamerstoelen-barkrukken"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/2025/08/DC240361.jpg",
+      "thumbnail": "/media/2025/08/DC240361.jpg",
+      "alt": "Elandra — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/DC240362.jpg",
+      "thumbnail": "/media/2025/08/DC240362.jpg",
+      "alt": "Elandra — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    },
+    {
+      "src": "/media/2025/08/DC240363.jpg",
+      "thumbnail": "/media/2025/08/DC240363.jpg",
+      "alt": "Elandra — Eetkamerstoelen &amp; barkrukken by Maison Debrah"
+    }
+  ],
+  "dimensions": "N/A",
+  "attributes": [],
+  "price": null,
+  "shopOrder": 211
+}
