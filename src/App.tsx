@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link, NavLink, Route, Routes, useLocation, useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import { categories, categoryName, productCategory, productsInCategory, topCategories, type Product } from './data/catalog'
 import siteData from './data/site.json'
@@ -223,17 +223,52 @@ function ProductImage({ src, alt, className = '' }: { src?: string; alt: string;
 function Header({ count }: { count: number }) {
   const [open, setOpen] = useState(false)
   const [openMenu, setOpenMenu] = useState<string | null>(null)
+  const menuToggle = useRef<HTMLButtonElement>(null)
+  const mobileNav = useRef<HTMLElement>(null)
   const navigate = useNavigate()
+  useEffect(() => {
+    if (open) mobileNav.current?.querySelector<HTMLButtonElement>('.mobile-top button')?.focus()
+  }, [open])
+  const closeMobileMenu = () => {
+    setOpen(false)
+    menuToggle.current?.focus()
+  }
+  const handleMobileMenuKeyDown = (event: React.KeyboardEvent<HTMLElement>) => {
+    if (event.key === 'Escape') {
+      closeMobileMenu()
+      return
+    }
+    if (event.key !== 'Tab') return
+    const items = mobileNav.current?.querySelectorAll<HTMLElement>('a, button, summary')
+    if (!items?.length) return
+    const first = items[0]
+    const last = items[items.length - 1]
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault()
+      last.focus()
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault()
+      first.focus()
+    }
+  }
   const search = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault()
     setOpenMenu(null)
     const query = String(new FormData(event.currentTarget).get('q') || '').trim()
     navigate(query ? `/shop?q=${encodeURIComponent(query)}` : '/shop')
   }
+  const skipToContent = (event: React.MouseEvent<HTMLAnchorElement>) => {
+    event.preventDefault()
+    const main = document.getElementById('main-content')
+    if (!main) return
+    main.tabIndex = -1
+    main.focus({ preventScroll: true })
+    main.scrollIntoView()
+  }
 
   return (
     <>
-      <a className="skip-link" href="#main-content">Skip to content</a>
+      <a className="skip-link" href="#main-content" onClick={skipToContent}>Skip to content</a>
       <header className="site-header">
         <div className="header-top">
           <form className="header-search" role="search" onSubmit={search}>
@@ -242,7 +277,7 @@ function Header({ count }: { count: number }) {
             <button type="submit" aria-label="Search collection"><Icon name="search" /></button>
           </form>
           <Link className="brand" to="/" aria-label="Maison Debrah Ethiopia home">
-            <img src={reference('MAISON_DEBRAH_LOGO_POS_RGB.svg')} alt="Maison Debrah Ethiopia" />
+            <img src={reference('MAISON_DEBRAH_LOGO_POS_RGB.svg')} alt="Maison Debrah Ethiopia" width="1300" height="360" />
           </Link>
           <div className="header-actions">
             <Link to="/contact" aria-label="Showroom & Inquiries"><Icon name="account" /></Link>
@@ -250,7 +285,7 @@ function Header({ count }: { count: number }) {
               <Icon name="cart" />
               {count > 0 && <span className="cart-count">{count}</span>}
             </Link>
-            <button className="menu-toggle" type="button" aria-label={open ? 'Close menu' : 'Open menu'} aria-expanded={open} onClick={() => setOpen(!open)}>
+            <button ref={menuToggle} className="menu-toggle" type="button" aria-label={open ? 'Close menu' : 'Open menu'} aria-expanded={open} onClick={() => setOpen(!open)}>
               <span /><span /><span />
             </button>
           </div>
@@ -262,11 +297,11 @@ function Header({ count }: { count: number }) {
           <DesktopMenu group={menuGroups[5]} openMenu={openMenu} setOpenMenu={setOpenMenu} />
         </nav>
         {open && (
-          <div className="mobile-shade" onClick={() => setOpen(false)}>
-            <nav className="mobile-nav" aria-label="Mobile navigation" onClick={(event) => { if ((event.target as Element).closest('a')) setOpen(false); event.stopPropagation() }}>
+          <div className="mobile-shade" onClick={closeMobileMenu}>
+            <nav ref={mobileNav} className="mobile-nav" aria-label="Mobile navigation" onKeyDown={handleMobileMenuKeyDown} onClick={(event) => { if ((event.target as Element).closest('a')) setOpen(false); event.stopPropagation() }}>
               <div className="mobile-top">
                 <strong>Maison Debrah Ethiopia</strong>
-                <button type="button" onClick={() => setOpen(false)} aria-label="Close menu">×</button>
+                <button type="button" onClick={closeMobileMenu} aria-label="Close menu">×</button>
               </div>
               <Link to="/">Home</Link>
               {menuGroups.map((group) => (
@@ -630,7 +665,7 @@ function Catalog({
             ))}
           </nav>
           <div className="catalog-inquiry-box">
-            <h3>Addis Ababa Studio</h3>
+            <h2>Addis Ababa Studio</h2>
             <p>Custom dimensions, luxury fabric swatches, and bespoke finishes available on request.</p>
             <a
               href={`https://wa.me/${ETHIOPIA_CONTACT.whatsappRaw}?text=Hello%20Maison%20Debrah%20Ethiopia,%20I%20have%20an%20inquiry%20regarding%20your%20collection.`}
@@ -1462,7 +1497,7 @@ export default function App() {
           <Route path="*" element={<NotFound />} />
         </Routes>
       )}
-      <Footer />
+      {(products || error) && <Footer />}
       {products && <FloatingTools cart={cart} products={products} />}
     </>
   )
