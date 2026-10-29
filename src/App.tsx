@@ -151,15 +151,33 @@ function Icon({ name }: { name: 'search' | 'account' | 'cart' | 'whatsapp' | 'in
   if (name === 'cart') return <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h2l2.1 12.5h13.1l2-9.5H5" /><circle cx="8" cy="20" r="1" /><circle cx="18" cy="20" r="1" /></svg>
   if (name === 'whatsapp') {
     return (
-      <svg viewBox="0 0 24 24" aria-hidden="true" fill="currentColor">
-        <path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.82 9.82 0 0 0 12.04 2zm0 1.67c2.2 0 4.26.86 5.82 2.42a8.21 8.21 0 0 1 2.41 5.83c0 4.54-3.7 8.24-8.24 8.24-1.38 0-2.74-.36-3.94-1.07l-.29-.17-3.12.82.83-3.04-.19-.31a8.27 8.27 0 0 1-1.2-4.48c0-4.54 3.7-8.24 8.24-8.24zm-3.22 3.68c-.2 0-.53.07-.8.37-.26.3-1.02 1.01-1.02 2.45 0 1.44 1.05 2.82 1.2 3.02.15.2 2.06 3.15 4.99 4.41.7.3 1.24.48 1.66.61.7.22 1.34.19 1.84.12.56-.08 1.71-.7 1.95-1.37.24-.67.24-1.25.17-1.37-.07-.12-.27-.19-.57-.34-.3-.15-1.77-.87-2.04-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.34.22-.64.07-.3-.15-1.26-.46-2.39-1.47-.88-.79-1.47-1.76-1.64-2.06-.17-.3-.02-.46.13-.61.14-.14.31-.36.46-.53.15-.17.2-.29.3-.49.1-.2.05-.37-.02-.52-.07-.15-.67-1.63-.92-2.23-.24-.58-.49-.5-.68-.51-.18 0-.37.1-.37.1z" />
+      <svg viewBox="0 0 175.216 175.552" aria-hidden="true">
+        <defs>
+          <linearGradient id="wa-icon-grad" x1="85.915" x2="86.535" y1="32.567" y2="137.092" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stopColor="#57d163" />
+            <stop offset="1" stopColor="#23b33a" />
+          </linearGradient>
+        </defs>
+        <path
+          fill="#fff"
+          d="m12.966 161.238 10.439-38.114a73.42 73.42 0 0 1-9.821-36.772c.017-40.556 33.021-73.55 73.578-73.55 19.681.01 38.154 7.669 52.047 21.572s21.537 32.383 21.53 52.037c-.018 40.553-33.027 73.553-73.578 73.553h-.032c-12.313-.005-24.412-3.094-35.159-8.954z"
+        />
+        <path
+          fill="url(#wa-icon-grad)"
+          d="M87.184 25.227c-33.733 0-61.166 27.423-61.178 61.13a60.98 60.98 0 0 0 9.349 32.535l1.455 2.313-6.179 22.558 23.146-6.069 2.235 1.324c9.387 5.571 20.15 8.517 31.126 8.523h.023c33.707 0 61.14-27.426 61.153-61.135a60.75 60.75 0 0 0-17.895-43.251 60.75 60.75 0 0 0-43.235-17.928z"
+        />
+        <path
+          fill="#fff"
+          fillRule="evenodd"
+          d="M68.772 55.603c-1.378-3.061-2.828-3.123-4.137-3.176l-3.524-.043c-1.226 0-3.218.46-4.902 2.3s-6.435 6.287-6.435 15.332 6.588 17.785 7.506 19.013 12.718 20.381 31.405 27.75c15.529 6.124 18.689 4.906 22.061 4.6s10.877-4.447 12.408-8.74 1.532-7.971 1.073-8.74-1.685-1.226-3.525-2.146-10.877-5.367-12.562-5.981-2.91-.919-4.137.921-4.746 5.979-5.819 7.206-2.144 1.381-3.984.462-7.76-2.861-14.784-9.124c-5.465-4.873-9.154-10.891-10.228-12.73s-.114-2.835.808-3.751c.825-.824 1.838-2.147 2.759-3.22s1.224-1.84 1.836-3.065.307-2.301-.153-3.22-4.032-10.011-5.666-13.647"
+        />
       </svg>
     )
   }
   if (name === 'message') {
     return (
-      <svg viewBox="0 0 24 24" aria-hidden="true" fill="currentColor">
-        <path d="M12 3C6.48 3 2 6.94 2 11.8c0 2.76 1.44 5.22 3.72 6.78-.17 1.34-.84 3.12-2.13 4.22 2.21.09 4.38-.56 5.86-1.58.82.21 1.68.32 2.55.32 5.52 0 10-3.94 10-8.8S17.52 3 12 3z" />
+      <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
       </svg>
     )
   }
@@ -308,8 +326,8 @@ function Footer() {
             <a href="https://www.linkedin.com/in/maisondebrah/" target="_blank" rel="noreferrer" aria-label="Maison Debrah on LinkedIn" className="social-circle">
               <Icon name="linkedin" />
             </a>
-            <a href={`https://wa.me/${ETHIOPIA_CONTACT.whatsappRaw}`} target="_blank" rel="noreferrer" aria-label="Message our Addis Ababa showroom" className="social-circle message">
-              <Icon name="message" />
+            <a href={`https://wa.me/${ETHIOPIA_CONTACT.whatsappRaw}`} target="_blank" rel="noreferrer" aria-label="Chat with our Addis Ababa showroom on WhatsApp" className="social-circle whatsapp">
+              <Icon name="whatsapp" />
             </a>
           </div>
         </section>
@@ -382,7 +400,7 @@ function ProductCard({
           aria-label={`Inquire about ${product.name} on WhatsApp`}
           title="Direct WhatsApp inquiry"
         >
-          <Icon name="message" />
+          <Icon name="whatsapp" />
         </a>
       </div>
     </article>
