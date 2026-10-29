@@ -24,30 +24,26 @@ npm.cmd run validate:content
 npm.cmd run build
 ```
 
-## Edit content with Pages CMS
+## Product studio demonstration
 
-Staff can bookmark the [content editor entrance](https://yohannesmulugeta.github.io/Maison-Debrah-et/admin/). It links directly to the homepage, product, and media editors; editing still requires Pages CMS access.
+[Open the admin demo](https://yohannesmulugeta.github.io/Maison-Debrah-et/admin/) after the Pages workflow finishes. It shows nine existing products from the furniture, lighting and decoration collections. Visitors can search, filter, add a sample product, edit a product, choose a small local preview image, and remove a product with confirmation.
 
-This repository is configured for [Pages CMS](https://pagescms.org/). After the `.pages.yml` configuration is on GitHub `main`, sign in at [app.pagescms.org](https://app.pagescms.org/) with GitHub, install the Pages CMS GitHub App for this repository, and select the `main` branch. The editor provides **Products** and **Homepage and contact**. Saving a change commits the JSON file to GitHub; the existing Pages workflow then validates, builds, and deploys the site. Check the workflow result before treating an edit as published.
+The demo has **no sign-in or database**. Changes are saved only in that browser's local storage, never in GitHub or on the public storefront. Use **Reset demo** to restore the original sample. Do not enter confidential information. This page is a visual and interaction preview for client review, not a live product management system.
 
-- Products are edited as individual JSON files in `content/products`. Pages CMS shows a searchable list. Give new products a unique numeric ID and slug; keep existing IDs and slugs to preserve page links. Category IDs must match `src/data/categories.json`.
-- `npm.cmd run validate:content` checks the records and generates `public/data/products.json` for the site. The generated file is not committed. `npm.cmd run dev` and the production builds run this step automatically.
-- Upload new product photos in the CMS Media area (`public/media`). Copy the resulting `/media/...` path into both image URL and thumbnail URL; existing local and external image URLs remain unchanged.
-- Homepage copy and Ethiopia contact details live in `src/data/site.json`. The CMS does not edit layout, other page copy, or `index.html` metadata.
-- Product edits change only the selected product file. Review Git history if a save needs to be reverted.
+The repository no longer contains Pages CMS configuration or links. The original 268 product records remain in `content/products`. `npm.cmd run validate:content` checks them and generates `public/data/products.json` for the public site; the generated file is not committed. The site continues to use those records until a secure admin backend is approved and connected.
 
 ## What is implemented
 
 - Responsive English homepage using the reference's hero, paired collection panels, eight featured products, catalogue banner, five chair cards, showroom/consultation panels, newsletter panel and five-column footer.
 - Reference-style desktop header with category dropdowns, product search, brochure, account and cart links; mobile menu; floating cart and language links.
-- Searchable, categorized, paginated catalogue with the same 268 product records and 27 categories as the staging site. Desktop cards follow the staging shop order and show its published euro prices where available.
-- Product detail pages with the reference site's names, images, available summary text, euro price where published, category and related products. Product and collection names are unchanged. A browser-stored cart supports add, quantity, remove and persistence across refreshes.
+- Searchable, categorized, paginated catalogue with the same 268 product records and 27 categories as the staging site. Desktop cards follow the staging shop order; public prices are currently hidden in favor of an inquiry flow.
+- Product detail pages with the reference site's names, images, available summary text, category and related products. Product and collection names are unchanged. A browser-stored cart supports add, quantity, remove and persistence across refreshes.
 - Local images for 693 product gallery entries, reused by filename from the user's earlier public Maison Debrah recreation. The remaining 159 entries still use the staging host and may be unavailable when that site is down.
 - Clear loading, empty and error states. Forms, account access, checkout, payment and newsletter delivery are visible but not connected to a server; the preview does not submit orders or personal information.
 
 ## Remaining reference gaps
 
-The desktop homepage, shop and a representative product page were compared directly with the staging site on 28 October 2026. The 268 product records retain existing images and now include the source shop order and published euro prices; products without a published price show a request message. These prices are reference data, not approved Ethiopia selling prices. Policy and service page copy has not been matched page by page. Account, checkout and forms remain preview-only. Mobile layout was not part of this desktop alignment pass.
+The desktop homepage, shop and a representative product page were compared directly with the staging site on 28 October 2026. The 268 product records retain existing images, source shop order and reference prices, but the public site does not display those prices. They are not approved Ethiopia selling prices. Policy and service page copy has not been matched page by page. Account, checkout and forms remain preview-only. Mobile layout was not part of that desktop alignment pass.
 
 ## Before this could launch
 

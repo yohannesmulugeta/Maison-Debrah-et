@@ -1,6 +1,7 @@
 node_modules/
 dist/
 .playwright-cli/
+/output/
 /public/data/products.json
 *.local
 .env
