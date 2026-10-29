@@ -145,7 +145,7 @@ function DesktopMenu({
   )
 }
 
-function Icon({ name }: { name: 'search' | 'account' | 'cart' | 'whatsapp' | 'instagram' | 'linkedin' | 'arrow-up' | 'message' }) {
+function Icon({ name }: { name: 'search' | 'account' | 'cart' | 'whatsapp' | 'whatsapp-outline' | 'instagram' | 'linkedin' | 'arrow-up' | 'message' }) {
   if (name === 'search') return <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.7" cy="10.7" r="6.8" /><path d="m16 16 5 5" /></svg>
   if (name === 'account') return <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="7.5" r="3.3" /><path d="M4.5 21v-2.2a7.5 7.5 0 0 1 15 0V21" /></svg>
   if (name === 'cart') return <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h2l2.1 12.5h13.1l2-9.5H5" /><circle cx="8" cy="20" r="1" /><circle cx="18" cy="20" r="1" /></svg>
@@ -171,6 +171,14 @@ function Icon({ name }: { name: 'search' | 'account' | 'cart' | 'whatsapp' | 'in
           fillRule="evenodd"
           d="M68.772 55.603c-1.378-3.061-2.828-3.123-4.137-3.176l-3.524-.043c-1.226 0-3.218.46-4.902 2.3s-6.435 6.287-6.435 15.332 6.588 17.785 7.506 19.013 12.718 20.381 31.405 27.75c15.529 6.124 18.689 4.906 22.061 4.6s10.877-4.447 12.408-8.74 1.532-7.971 1.073-8.74-1.685-1.226-3.525-2.146-10.877-5.367-12.562-5.981-2.91-.919-4.137.921-4.746 5.979-5.819 7.206-2.144 1.381-3.984.462-7.76-2.861-14.784-9.124c-5.465-4.873-9.154-10.891-10.228-12.73s-.114-2.835.808-3.751c.825-.824 1.838-2.147 2.759-3.22s1.224-1.84 1.836-3.065.307-2.301-.153-3.22-4.032-10.011-5.666-13.647"
         />
+      </svg>
+    )
+  }
+  if (name === 'whatsapp-outline') {
+    return (
+      <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M20.4 11.6a8.4 8.4 0 0 1-12.4 7.3L3 20l1.2-4.7a8.4 8.4 0 1 1 16.2-3.7Z" />
+        <path d="M8.3 7.8c.3-.4.8-.4 1.1 0l1 1.5c.2.3.2.7-.1 1l-.6.6a8.7 8.7 0 0 0 3.4 3.4l.6-.6c.3-.3.7-.3 1-.1l1.5 1c.4.3.4.8 0 1.1-.6.6-1.2.9-2 .7-3.2-.7-5.9-3.4-6.6-6.6-.2-.8.1-1.4.7-2Z" />
       </svg>
     )
   }
@@ -326,8 +334,8 @@ function Footer() {
             <a href="https://www.linkedin.com/in/maisondebrah/" target="_blank" rel="noreferrer" aria-label="Maison Debrah on LinkedIn" className="social-circle">
               <Icon name="linkedin" />
             </a>
-            <a href={`https://wa.me/${ETHIOPIA_CONTACT.whatsappRaw}`} target="_blank" rel="noreferrer" aria-label="Chat with our Addis Ababa showroom on WhatsApp" className="social-circle whatsapp">
-              <Icon name="whatsapp" />
+            <a href={`https://wa.me/${ETHIOPIA_CONTACT.whatsappRaw}`} target="_blank" rel="noreferrer" aria-label="Chat with our Addis Ababa showroom on WhatsApp" className="social-circle">
+              <Icon name="whatsapp-outline" />
             </a>
           </div>
         </section>

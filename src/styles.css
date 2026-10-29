@@ -814,14 +814,6 @@
   width: 18px;
   height: 18px;
 }
-.social-circle.whatsapp:hover {
-  background: #25d366;
-  border-color: #25d366;
-}
-.social-circle.whatsapp svg {
-  width: 22px;
-  height: 22px;
-}
 
 /* --- Floating Cart (Image 2 Match: White Circle + Black Top-Left Badge) --- */
 .floating-cart {
