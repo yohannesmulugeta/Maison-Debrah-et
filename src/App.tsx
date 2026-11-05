@@ -425,9 +425,7 @@ function ProductCard({
         <h3>
           <Link to={`/product/${product.slug}`}>{product.name}</Link>
         </h3>
-        <p className="product-inquire-status">
-          {product.summary === 'Product details are being confirmed.' ? 'Details being confirmed · Inquire' : 'Available on inquiry · Addis Ababa'}
-        </p>
+        <p className="product-inquire-status">Available on inquiry · Addis Ababa</p>
       </div>
       <div className="card-actions-row">
         {onAddToCart && (
@@ -757,7 +755,6 @@ function ProductDetails({
   const [imageIndex, setImageIndex] = useState(0)
   const [quantity, setQuantity] = useState(1)
   const [added, setAdded] = useState(false)
-  const detailsPending = product.summary === 'Product details are being confirmed.'
   const related = products
     .filter((item) => item.id !== product.id && item.categories.some((cat) => product.categories.some((current) => current.id === cat.id)))
     .slice(0, 3)
@@ -799,9 +796,7 @@ function ProductDetails({
         <div className="product-info">
           <h1>{product.name}</h1>
           {product.summary && <p className="product-summary">{product.summary}</p>}
-          <div className="inquiry-badge">
-            {detailsPending ? 'Inquire for Product Details' : 'Custom Crafted · Inquire for Availability in Ethiopia'}
-          </div>
+          <div className="inquiry-badge">Custom Crafted · Inquire for Availability in Ethiopia</div>
           <div className="add-cart">
             <label htmlFor="product-quantity">Quantity</label>
             <input
@@ -836,13 +831,9 @@ function ProductDetails({
               Collection: <Link to={`/collection/${product.categories[0].slug}`}>{productCategory(product)}</Link>
             </p>
           )}
-          {detailsPending ? (
-            <p className="commerce-note">Contact us to confirm product details and availability.</p>
-          ) : (
-            <p className="commerce-note">
-              White-glove delivery, custom finish selection, and installation available for Addis Ababa penthouses, residences, and hospitality projects.
-            </p>
-          )}
+          <p className="commerce-note">
+            White-glove delivery, custom finish selection, and installation available for Addis Ababa penthouses, residences, and hospitality projects.
+          </p>
         </div>
       </div>
       {related.length > 0 && (
@@ -1023,9 +1014,7 @@ function CartPage({
                       {product.name}
                     </Link>
                     <span className="cart-line-cat">{productCategory(product)}</span>
-                    <span className="cart-line-badge">
-                      {product.summary === 'Product details are being confirmed.' ? 'Details being confirmed' : 'Custom Crafted · Addis Ababa'}
-                    </span>
+                    <span className="cart-line-badge">Custom Crafted · Addis Ababa</span>
                   </div>
                   <div className="cart-qty-control">
                     <span className="qty-label">Quantity</span>
